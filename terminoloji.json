@@ -1,0 +1,7336 @@
+{
+    "Anatomie": [
+        "(Knochen)",
+        "(Regionen)",
+        "(Weichteile)"
+    ],
+    "Caput": [
+        "Kopf"
+    ],
+    "Cephalon": [
+        "Kopf"
+    ],
+    "Regio frontalis": [
+        "Stirn",
+        "Stirnregion"
+    ],
+    "Frons": [
+        "Stirn",
+        "Stirnregion"
+    ],
+    "Regio temporalis": [
+        "Schläfenregion",
+        "Schläfe"
+    ],
+    "Regio occipitalis": [
+        "Hinterhauptsregion"
+    ],
+    "Regio parietalis": [
+        "Scheitelregion"
+    ],
+    "Facies": [
+        "Gesicht"
+    ],
+    "Regio mentalis": [
+        "Kinn",
+        "Kinnregion"
+    ],
+    "Mentum": [
+        "Kinn",
+        "Kinnregion"
+    ],
+    "Bucca": [
+        "Wangenregion",
+        "Wange"
+    ],
+    "Regio buccalis": [
+        "Wangenregion",
+        "Wange"
+    ],
+    "Regio nasalis": [
+        "Nasenregion"
+    ],
+    "Regio oralis": [
+        "Mundregion"
+    ],
+    "Nucha": [
+        "Nacken"
+    ],
+    "Collum": [
+        "Hals"
+    ],
+    "Cervix": [
+        "Hals"
+    ],
+    "Soma": [
+        "körperlich",
+        "Körper"
+    ],
+    "somatisch": [
+        "körperlich",
+        "Körper"
+    ],
+    "Truncus": [
+        "Rumpf",
+        "Körperstamm",
+        "Stamm"
+    ],
+    "Torso": [
+        "Rumpf",
+        "Körperstamm",
+        "Stamm"
+    ],
+    "Thorax": [
+        "Brust",
+        "Brustkorb"
+    ],
+    "Steth": [
+        "Brust",
+        "Brustkorb"
+    ],
+    "Pectus": [
+        "Brust",
+        "Brustkorb"
+    ],
+    "Sternum": [
+        "Brustbein"
+    ],
+    "Processus xiphoideus": [
+        "Schwertfortsatz",
+        "Fortsatz",
+        "Schwert"
+    ],
+    "Processus ensiformis": [
+        "Schwertfortsatz",
+        "Fortsatz",
+        "Schwert"
+    ],
+    "Costa(e)": [
+        "Rippe(n)"
+    ],
+    "intercostal": [
+        "zwichen den Rippen"
+    ],
+    "Dorsum": [
+        "Rücken",
+        "Rückenregion"
+    ],
+    "Regio dorsalis": [
+        "Rücken",
+        "Rückenregion"
+    ],
+    "Venter": [
+        "bauchseitig",
+        "Bauch"
+    ],
+    "Abdomen": [
+        "bauchseitig",
+        "Bauch"
+    ],
+    "ventral": [
+        "bauchseitig",
+        "in Richtung Bauch",
+        "Bauch"
+    ],
+    "Regio epigastrica": [
+        "Oberbauch betreffend",
+        "Oberbauch",
+        "Magengrube"
+    ],
+    "Epigastrium": [
+        "Oberbauch betreffend",
+        "Oberbauch",
+        "Magengrube"
+    ],
+    "Regio hypochondriaca": [
+        "Oberbauch unter den Rippenbögen r+l"
+    ],
+    "Hypochondrium": [
+        "Oberbauch unter den Rippenbögen r+l"
+    ],
+    "Mesogastrium": [
+        "Mittelbauch"
+    ],
+    "Regio umbilicalis": [
+        "Nabelregion"
+    ],
+    "Regio lumbalis": [
+        "Lendenregion",
+        "Lendengegend r+l",
+        "Lendenbereich"
+    ],
+    "Regio hypogastrica": [
+        "Unterbauch"
+    ],
+    "Hypogastrium": [
+        "Unterbauch"
+    ],
+    "Regio pubica": [
+        "Schamgegend",
+        "Schambereich",
+        "Schamregion"
+    ],
+    "Regio iliaca": [
+        "Unterbauch r+l"
+    ],
+    "Regio inguinalis": [
+        "Leistengegend",
+        "Leistenregion",
+        "Leiste r+l"
+    ],
+    "Regio glutealis": [
+        "Gesäßregion",
+        "Gesäßgegend r+l"
+    ],
+    "Regio sacralis": [
+        "Kreuzbeinregion"
+    ],
+    "Extremität(en)": [
+        "Gliedmaße (n)"
+    ],
+    "obere Extremität:": [
+        "Arm"
+    ],
+    "Axilla": [
+        "die Achselhöhle betreffend",
+        "Achselhöhle"
+    ],
+    "axillär": [
+        "die Achselhöhle betreffend",
+        "Achselhöhle"
+    ],
+    "Brachium": [
+        "Oberarm"
+    ],
+    "Antebrachium": [
+        "Unterarm"
+    ],
+    "Cubitus": [
+        "Ellenbogen"
+    ],
+    "Articulatio cubiti": [
+        "Ellenbogengelenk"
+    ],
+    "Fossa cubitalis": [
+        "Ellenbogengrube"
+    ],
+    "Regio cubitalis anterior": [
+        "Ellenbeuge"
+    ],
+    "Regio cubiti": [
+        "Ellenbeuge"
+    ],
+    "Fossa": [
+        "Grube"
+    ],
+    "Manus": [
+        "Hand"
+    ],
+    "Dorsum manus": [
+        "Handrücken"
+    ],
+    "Palma manus": [
+        "Handfläche"
+    ],
+    "Vola manus": [
+        "Handfläche"
+    ],
+    "− palmar": [
+        "in Bezug auf die Handfläche",
+        "hohlhandwärts"
+    ],
+    "palmaris": [
+        "in Bezug auf die Handfläche",
+        "hohlhandwärts"
+    ],
+    "volar": [
+        "in Bezug auf die Handfläche",
+        "hohlhandwärts"
+    ],
+    "volaris": [
+        "in Bezug auf die Handfläche",
+        "hohlhandwärts"
+    ],
+    "Digitus(Digiti) manus": [
+        "Finger"
+    ],
+    "− Pollex": [
+        "Daumen"
+    ],
+    "Digitus manus I": [
+        "Daumen"
+    ],
+    "− Index": [
+        "Zeigefinger"
+    ],
+    "Digitus manus II": [
+        "Zeigefinger"
+    ],
+    "Medius": [
+        "Mittelfinger"
+    ],
+    "Digitus manus III": [
+        "Mittelfinger"
+    ],
+    "Annularius": [
+        "Ringfinger"
+    ],
+    "Digitus manus IV": [
+        "Ringfinger"
+    ],
+    "Digitus minimus": [
+        "V kleiner Finger"
+    ],
+    "Digitus manus": [
+        "V kleiner Finger"
+    ],
+    "Phalanx(Phalangen) (proximalis": [
+        "Finger oder Zehenglied(Finger oder Zehenglieder)"
+    ],
+    "media": [
+        "(grundglied mittelglied endglied)"
+    ],
+    "distalis)": [
+        "(grundglied mittelglied endglied)"
+    ],
+    "O Unguis digitus manus": [
+        "Fingernagel",
+        "Zehennagel"
+    ],
+    "pedis": [
+        "Fingernagel",
+        "Zehennagel"
+    ],
+    "Unguis": [
+        "Nagel",
+        "eingewachsener Zehennagel",
+        "unter dem Nagel"
+    ],
+    "Unguis incarnatus": [
+        "Nagel",
+        "eingewachsener Zehennagel",
+        "unter dem Nagel"
+    ],
+    "subungual": [
+        "Nagel",
+        "eingewachsener Zehennagel",
+        "unter dem Nagel"
+    ],
+    "Pelvis": [
+        "Becken"
+    ],
+    "Mons pubis": [
+        "Schamberg",
+        "Schamhügel",
+        "Venushügel"
+    ],
+    "Mons veneris": [
+        "Schamberg",
+        "Schamhügel",
+        "Venushügel"
+    ],
+    "Sura": [
+        "Wadenregion",
+        "Wade"
+    ],
+    "Regio suralis": [
+        "Wadenregion",
+        "Wade"
+    ],
+    "Poplitea": [
+        "Kniekehle"
+    ],
+    "Fossa poplitea": [
+        "Kniekehle"
+    ],
+    "Calcis": [
+        "Hacke",
+        "Ferse"
+    ],
+    "Pes": [
+        "Fuß(Füße)"
+    ],
+    "Dorsum pedis": [
+        "Fußrücken"
+    ],
+    "Planta pedis": [
+        "Fußsohle"
+    ],
+    "Planta": [
+        "Fußsohle"
+    ],
+    "plantar": [
+        "sohlenflächenwärts",
+        "im Bezug auf Fußsohle"
+    ],
+    "Digitus(Digiti) pedis": [
+        "der Zeh = die Zehe(n)",
+        "Hammerzehe"
+    ],
+    "Digitus malleus": [
+        "der Zeh = die Zehe(n)",
+        "Hammerzehe"
+    ],
+    "Hallux": [
+        "Großzehe"
+    ],
+    "Digitus pedis I": [
+        "Großzehe"
+    ],
+    "Skelett": [
+        "Knochengerüst"
+    ],
+    "Os(Ossa)": [
+        "Mund",
+        "Knochen"
+    ],
+    "Ostitis": [
+        "Knochenentzündung"
+    ],
+    "Articulatio": [
+        "HandwurzelMittelhandGelenk",
+        "Daumensattelgelenk",
+        "Das Gelenk"
+    ],
+    "Arthron": [
+        "Das Gelenk"
+    ],
+    "Arthr": [
+        "Das Gelenk"
+    ],
+    "Membrana synovialis": [
+        "Gelenkschleimhaut",
+        "Gelenkinnenhaut"
+    ],
+    "Synovialis": [
+        "Gelenkschleimhaut",
+        "Gelenkinnenhaut"
+    ],
+    "Synovitis": [
+        "Gelenkschleimhautentzündung"
+    ],
+    "Bursa synovialis": [
+        "Gleitbeutel",
+        "Schleimbeutel"
+    ],
+    "Vagina synovialis tendinis": [
+        "Sehnenscheide"
+    ],
+    "artikulär": [
+        "zum Gelenk gehörend",
+        "die Gelenke betreffend"
+    ],
+    "artikularis": [
+        "zum Gelenk gehörend",
+        "die Gelenke betreffend"
+    ],
+    "Cranium": [
+        "Schädel"
+    ],
+    "Calvaria": [
+        "Schädeldach"
+    ],
+    "Basis cranii": [
+        "Schädelbasis"
+    ],
+    "Cavum cranii": [
+        "Schädelhöhle"
+    ],
+    "Ossa cranii": [
+        "Schädelknochen"
+    ],
+    "Os frontale": [
+        "Stirnbein"
+    ],
+    "Lobus": [
+        "Lappen (Sng.)"
+    ],
+    "Lobus frontalis": [
+        "Stirnlappen"
+    ],
+    "Os parietale": [
+        "Scheitelbein"
+    ],
+    "Os temporale": [
+        "Schläfenbein"
+    ],
+    "Processus styloideus": [
+        "Griffelfortsatz (des Schläfenbeins)"
+    ],
+    "Processus": [
+        "Warzenfortsatz (des Schläfenbeins)"
+    ],
+    "Os occipitale": [
+        "Hinterhauptbein",
+        "Hinterkopf"
+    ],
+    "Occiput": [
+        "Hinterhauptbein",
+        "Hinterkopf"
+    ],
+    "Foramen magnum": [
+        "großes Hinterhauptsloch des Schädels"
+    ],
+    "Os sphenoidale": [
+        "Keilbein"
+    ],
+    "Os ethmoidale": [
+        "Siebbein"
+    ],
+    "Os lacrimale": [
+        "Tränenbein"
+    ],
+    "Os nasale": [
+        "Nasenbein"
+    ],
+    "Cartilago nasi lateralis": [
+        "Dreiecksknorpel"
+    ],
+    "Cartilago septi nasi": [
+        "Septumknorpel"
+    ],
+    "Os zygomaticum": [
+        "Jochbein"
+    ],
+    "Arcus zygomaticus": [
+        "Jochbogen"
+    ],
+    "Os hyoideum": [
+        "Zungenbein"
+    ],
+    "Maxilla": [
+        "Oberkiefer"
+    ],
+    "Mandibula": [
+        "Unterkiefer"
+    ],
+    "Vertebra": [
+        "Wirbel",
+        "die Wirbel betreffend"
+    ],
+    "vertebral": [
+        "Wirbel",
+        "die Wirbel betreffend"
+    ],
+    "Foramen vertebrale": [
+        "Wirbelloch",
+        "Öffnung",
+        "Loch"
+    ],
+    "Foramen": [
+        "Wirbelloch",
+        "Öffnung",
+        "Loch"
+    ],
+    "Corpus vertebrae": [
+        "Wirbelkörper",
+        "Körper"
+    ],
+    "Corpus": [
+        "Wirbelkörper",
+        "Körper"
+    ],
+    "Processus transversus(rsi)": [
+        "Querfortsatz(ätze)"
+    ],
+    "Processus articularis( articulares)": [
+        "Gelenkfortsatz (ätze)"
+    ],
+    "Processus costalis": [
+        "Rippenfortsatz"
+    ],
+    "Columna vertebralis": [
+        "Wirbelsäule",
+        "Säule"
+    ],
+    "Columna": [
+        "Wirbelsäule",
+        "Säule"
+    ],
+    "Vertebrae cervicales (pl.)": [
+        "Halswirbel (pl.)"
+    ],
+    "Atlas (Vertebra cervicalis I)": [
+        "1. Halswirbel",
+        "Träger",
+        "Nicker"
+    ],
+    "Axis (Vertebra cervicalis II)": [
+        "2. Halswirbel",
+        "Dreher"
+    ],
+    "Vertebra prominens (V. cervicalis VII)": [
+        "7. Halswirbel"
+    ],
+    "Vertebrae thoracicae": [
+        "Brustwirbel (pl.)"
+    ],
+    "Vertebrae lumbales": [
+        "Lendenwirbel (pl.)"
+    ],
+    "Vertebrae sacrales": [
+        "Kreuzbein",
+        "Kreuzbeinwirbel"
+    ],
+    "Os sacrum": [
+        "Kreuzbein",
+        "Kreuzbeinwirbel"
+    ],
+    "Vertebrae coccygeae": [
+        "Steißbeinwirbel",
+        "Steißbein"
+    ],
+    "Os coccygeum": [
+        "Steißbeinwirbel",
+        "Steißbein"
+    ],
+    "Kauda": [
+        "Schwanz",
+        "Endstück"
+    ],
+    "Scapula": [
+        "Schulterblatt"
+    ],
+    "Skapula": [
+        "Schulterblatt"
+    ],
+    "Akromion": [
+        "Schulterdach",
+        "Schulterhöhe"
+    ],
+    "Processus coracoideus": [
+        "Rabenschnabelfortsatz"
+    ],
+    "Glenoid": [
+        "Schultergelenkspfanne"
+    ],
+    "Cavitas glenoidalis": [
+        "Schultergelenkspfanne"
+    ],
+    "Klavikula": [
+        "Schlüsselbein"
+    ],
+    "Omarthrose": [
+        "Schultergelenkverschleiß"
+    ],
+    "Articulatio akromioklavikularis": [
+        "Schultereckgelenk",
+        "kleines Schultergelenk"
+    ],
+    "Humerus": [
+        "Oberarmbruch",
+        "Oberarmknochen"
+    ],
+    "Humerusfraktur": [
+        "Oberarmbruch",
+        "Oberarmknochen"
+    ],
+    "Caput humeri": [
+        "Oberarmknochenkopf"
+    ],
+    "Olekranon": [
+        "Ellenbogenspitze"
+    ],
+    "Ulna": [
+        "Elle"
+    ],
+    "Radius": [
+        "Speiche"
+    ],
+    "Articulatio manus": [
+        "Handgelenk"
+    ],
+    "Articulatio carpometacarpalis": [
+        "HandwurzelMittelhandGelenk",
+        "Daumensattelgelenk"
+    ],
+    "Articulatio metacarpophalangealis": [
+        "Fingergrundgelenk",
+        "Daumengrundgelenk"
+    ],
+    "Handgelenkflexregion": [
+        "Handgelenkbeugeseite"
+    ],
+    "Carpus": [
+        "Handwurzel",
+        "Handwurzelknochen"
+    ],
+    "Ossa carpi": [
+        "Handwurzel",
+        "Handwurzelknochen"
+    ],
+    "Ossa carpalia": [
+        "Handwurzel",
+        "Handwurzelknochen"
+    ],
+    "Os capitatum": [
+        "Kopfbein der Handwurzel"
+    ],
+    "Os scaphoideum": [
+        "Kahnbein der Handwurzel"
+    ],
+    "Os hamatum": [
+        "Hakenbein der Handwurzel"
+    ],
+    "Os lunatum": [
+        "Mondbein der Handwurzel"
+    ],
+    "Os pisiforme": [
+        "Erbsenbein der Handwurzel"
+    ],
+    "Os triquetrum": [
+        "Dreieckbein",
+        "Dreiecksbein der Handwurzel"
+    ],
+    "Os trapezium": [
+        "großes Vieleckbein der Handwurzel"
+    ],
+    "Os trapezoideum": [
+        "kleines Vieleckbein der Handwurzel"
+    ],
+    "Ossa metacarpi": [
+        "Mittelhandknochen der Handwurzel"
+    ],
+    "Ossa metacarpalia": [
+        "Mittelhandknochen der Handwurzel"
+    ],
+    "Ossa digitorum manus": [
+        "Fingerknochen"
+    ],
+    "Os ilium": [
+        "Darmbein"
+    ],
+    "Crista iliaca": [
+        "Darmbeinkamm"
+    ],
+    "Os ischii": [
+        "Sitzbein",
+        "Sitzbeinhöcker"
+    ],
+    "Tuber ischiadicum": [
+        "Sitzbein",
+        "Sitzbeinhöcker"
+    ],
+    "Os pubis": [
+        "Schambein"
+    ],
+    "Coxa": [
+        "Hüftregion",
+        "Hüfte"
+    ],
+    "Coxarthrose": [
+        "Hüftgelenkverschleiß"
+    ],
+    "Femur": [
+        "Oberschenkel",
+        "Oberschenkelknochen"
+    ],
+    "Os femoris": [
+        "Oberschenkel",
+        "Oberschenkelknochen"
+    ],
+    "Caput femoris": [
+        "Hüftkopf",
+        "Oberschenkelkopf"
+    ],
+    "Collum femoris": [
+        "Oberschenkelhals"
+    ],
+    "Trochlea": [
+        "Rollknorpel",
+        "Rolle",
+        "Walze",
+        "Flaschenzug"
+    ],
+    "Trochanter major": [
+        "kleiner Rollhügel",
+        "großer"
+    ],
+    "minor": [
+        "große",
+        "klein",
+        "kleiner Rollhügel",
+        "großer",
+        "kleine Magenkurvatur",
+        "kleinste",
+        "kleiner",
+        "kleiner Brustmuskel"
+    ],
+    "Meniscus lateralis": [
+        "Außenmeniskus"
+    ],
+    "Meniscus medialis": [
+        "Innenmeniskus"
+    ],
+    "Meniskopathie": [
+        "Erkrankung des scheibenförmigen Kniegelenkknorpels"
+    ],
+    "Meniskektomie": [
+        "Entfernung des scheibenförmigen Kniegelenkknorpels"
+    ],
+    "Gonarthrose": [
+        "Kniegelenkverschleiß"
+    ],
+    "Caput tibiae": [
+        "Schienbeinkopf"
+    ],
+    "Plateau tibialis": [
+        "Schienbeinkopf"
+    ],
+    "Articulatio talocruralis": [
+        "oberes Sprunggelenk"
+    ],
+    "Ossa carpi = Handwurzelknohen Metacarpus": [
+        "= 5 Mittelhand"
+    ],
+    "Ossa metacarpi = Mittel handknochen Tarsus": [
+        "= Fußwurzel"
+    ],
+    "Tarsus": [
+        "Fußwurzel",
+        "Fußwurzelknochen"
+    ],
+    "Ossa tarsi": [
+        "Fußwurzel",
+        "Fußwurzelknochen"
+    ],
+    "Ossa tarsalia": [
+        "Fußwurzel",
+        "Fußwurzelknochen"
+    ],
+    "Talus": [
+        "Sprungbein"
+    ],
+    "Calcaneus": [
+        "Fersenbein"
+    ],
+    "Os naviculare": [
+        "Kahnbein"
+    ],
+    "Os cuneiforme": [
+        "Keilbein"
+    ],
+    "Os cuboideum": [
+        "Würfelbein"
+    ],
+    "Ossa metatarsi": [
+        "Mittelfußknochen"
+    ],
+    "Ossa metatarsalia": [
+        "Mittelfußknochen"
+    ],
+    "O Ossa digitorum pedis": [
+        "Zehenknochen"
+    ],
+    "1.Os scaphoideum (Knochen der Handwurzel) 2.Os": [
+        "naviculare (Knochen der Fußwurzel)"
+    ],
+    "1.Os sphenoidale (Knochen des Schädels) 2.Os cuneiforme": [
+        "(Knochen der Fußwurzel)"
+    ],
+    "Kondylus": [
+        "Knochengelenk",
+        "Gelenkknöchel",
+        "Gelenkkopf"
+    ],
+    "Kondyle": [
+        "Knochengelenk",
+        "Gelenkknöchel",
+        "Gelenkkopf"
+    ],
+    "Epikondylus": [
+        "Gelenkhöcker"
+    ],
+    "Epikondyle": [
+        "Gelenkhöcker"
+    ],
+    "Diaphyse": [
+        "Knochenschaft eines Röhrenknochens"
+    ],
+    "Epiphyse": [
+        "Gelenkende eines Röhrenknochens Zirbeldrüse",
+        "Zirbeldrüse"
+    ],
+    "Metaphyse": [
+        "Wachstumzone eines Röhrenknochens"
+    ],
+    "Medulla ossium": [
+        "Knochenmark"
+    ],
+    "Cartilago": [
+        "Knorpel"
+    ],
+    "Chondros": [
+        "Knorpel"
+    ],
+    "Cartilago articularis": [
+        "Gelenkknorpel"
+    ],
+    "Cartilago auricularis": [
+        "Ohrknorpel"
+    ],
+    "Cartilago costalis": [
+        "Rippenknorpel"
+    ],
+    "Chondritis": [
+        "Knorpelentzündung"
+    ],
+    "Ossifikation": [
+        "Verknöcherung"
+    ],
+    "Musculus(Musculi)": [
+        "Muskel(n)"
+    ],
+    "Musculus masseter": [
+        "Kaumuskel"
+    ],
+    "Musculus sternocleidomastoideus": [
+        "Kopfnicker",
+        "Kopfwendermuskel"
+    ],
+    "Musculus pectoralis major": [
+        "kleiner Brustmuskel",
+        "großer"
+    ],
+    "Musculus rectus abdominis": [
+        "gerader Bauchmuskel"
+    ],
+    "Musculus transversus abdominis": [
+        "querer Bauchmuskel"
+    ],
+    "Musculus gluteus maximus": [
+        "kleiner Gesäßmuskel",
+        "großer"
+    ],
+    "minimus": [
+        "klein",
+        "kleiner Gesäßmuskel",
+        "großer",
+        "kleinste",
+        "kleiner"
+    ],
+    "Musculus quadriceps femoris": [
+        "vierköpfiger Oberschenkelmuskel"
+    ],
+    "Musculus tibialis anterior": [
+        "vorderer Schienbeinmuskel"
+    ],
+    "Ligamentum(Ligamenta)": [
+        "Band(Bänder)"
+    ],
+    "Ligamentum patellae": [
+        "Kniescheibenband",
+        "Kniescheibensehne"
+    ],
+    "Ligamentum inguinale": [
+        "Leistenband"
+    ],
+    "Canalis inguinalis": [
+        "Leistenkanal"
+    ],
+    "Canalis femoralis": [
+        "Schenkelkanal"
+    ],
+    "Canalis vertebralis": [
+        "Wirbelkanal",
+        "Rückenmarkskanal"
+    ],
+    "Thenar": [
+        "Daumenballen"
+    ],
+    "Hypothenar": [
+        "Kleinfingerballen"
+    ],
+    "Rigidität": [
+        "starr",
+        "Steifigkeit",
+        "steif",
+        "Starre",
+        "Starrheit"
+    ],
+    "Rigor": [
+        "starr",
+        "Steifigkeit",
+        "steif",
+        "Starre",
+        "Starrheit"
+    ],
+    "rigide": [
+        "starr",
+        "Steifigkeit",
+        "steif",
+        "Starre",
+        "Starrheit"
+    ],
+    "magnus": [
+        "groß",
+        "größte",
+        "größer"
+    ],
+    "major": [
+        "groß",
+        "größte",
+        "größer"
+    ],
+    "maximus": [
+        "groß",
+        "größte",
+        "größer"
+    ],
+    "parvus": [
+        "kleiner",
+        "kleinste",
+        "klein"
+    ],
+    "longus": [
+        "kurz",
+        "lang"
+    ],
+    "brevis": [
+        "kurz",
+        "lang"
+    ],
+    "Origo": [
+        "Ansatz",
+        "Ursprung",
+        "Muskelansatz",
+        "Muskelursprung"
+    ],
+    "Insertio": [
+        "Ansatz",
+        "Ursprung",
+        "Muskelansatz",
+        "Muskelursprung"
+    ],
+    "Umbilicus": [
+        "Nabel"
+    ],
+    "Omphalos": [
+        "Nabel"
+    ],
+    "Funiculus umbilicalis": [
+        "Strang",
+        "Nabelschnur",
+        "dünnes Seil"
+    ],
+    "Funiculus": [
+        "Strang",
+        "Nabelschnur",
+        "dünnes Seil"
+    ],
+    "Funiculus spermaticus": [
+        "Samenstrang"
+    ],
+    "Omphalitis": [
+        "Nabelentzündung"
+    ],
+    "Isthmus": [
+        "Enge"
+    ],
+    "Frenulum": [
+        "kleine Schleimhautfalte",
+        "Bändchen"
+    ],
+    "Mukosa": [
+        "Schleimhaut"
+    ],
+    "Orthopädie": [
+        "& Rheumatologie"
+    ],
+    "Traumatologie": [
+        "Verletzungskunde",
+        "Unfallmedizin",
+        "Unfallheilkunde"
+    ],
+    "Traumatologe": [
+        "Verletzungskunde",
+        "Unfallmedizin",
+        "Unfallheilkunde"
+    ],
+    "Wundenkunde": [
+        "Unfallmediziner"
+    ],
+    "Trauma": [
+        "Verletzung"
+    ],
+    "Polytrauma": [
+        "Mehrfachverletzung"
+    ],
+    "polytraumatisiert": [
+        "mehrfachverletzt"
+    ],
+    "Vulnerabilität": [
+        "Anfälligkeit",
+        "verletzlich",
+        "verwundbar"
+    ],
+    "vulnerabel": [
+        "Anfälligkeit",
+        "verletzlich",
+        "verwundbar"
+    ],
+    "Arthropathie": [
+        "Gelenkerkrankung"
+    ],
+    "Arthralgie": [
+        "Gelenkschmerzen"
+    ],
+    "Arthritis urica": [
+        "Gicht"
+    ],
+    "Urikopathie": [
+        "Gicht"
+    ],
+    "Arthrose": [
+        "degenerative Gelenkerkrankung",
+        "Gelenkverschleiß"
+    ],
+    "Osteoarthrose": [
+        "degenerative Gelenkerkrankung",
+        "Gelenkverschleiß"
+    ],
+    "degenerativ": [
+        "s. zurückbildend",
+        "s. abbauend",
+        "Verschleiß"
+    ],
+    "Degeneration": [
+        "s. zurückbildend",
+        "s. abbauend",
+        "Verschleiß"
+    ],
+    "Arthritis": [
+        "Gelenkentzündung"
+    ],
+    "Pseudarthrose": [
+        "Falschgelenk"
+    ],
+    "Arthroskopie": [
+        "Gelenkspiegelung"
+    ],
+    "Arthrektomie": [
+        "Gelenkentfernung"
+    ],
+    "Arthrotomie": [
+        "Gelenkeröffnung"
+    ],
+    "Arthrozentese": [
+        "Gelenkpunktion"
+    ],
+    "Punktion": [
+        "Einstechen mit Hohlnadel"
+    ],
+    "Synovia": [
+        "Gelenkflüssigkeit",
+        "Gelenkschmiere"
+    ],
+    "Hydarthros": [
+        "Gelenkerguss"
+    ],
+    "Hydrops articularis": [
+        "Gelenkerguss"
+    ],
+    "Hämarthros": [
+        "blutiger Gelenkerguss"
+    ],
+    "auffällig": [
+        "conspicuus"
+    ],
+    "Discus intervertebralis": [
+        "Bandscheibe",
+        "Zwischenwirbelscheibe"
+    ],
+    "Discus": [
+        "Scheibe"
+    ],
+    "Nucleus pulposus": [
+        "Gallertkern"
+    ],
+    "Anulus fibrosus": [
+        "Faserring"
+    ],
+    "NucleuspulposusProlaps": [
+        "Bandscheibenvorfall"
+    ],
+    "Diszitis": [
+        "Bandscheibenentzündung"
+    ],
+    "Diskektomie": [
+        "Bandscheibenentfernung"
+    ],
+    "Lumbago Lumbalgie": [
+        "Hexenschuss"
+    ],
+    "Kyphose": [
+        "Wirbelsäulenkrümmung nach hinten"
+    ],
+    "Lordose": [
+        "Wirbelsäulenkrümmung nach vorne"
+    ],
+    "Skoliose": [
+        "seitliche Wirbelsäulenkrümmung"
+    ],
+    "Genu valgum": [
+        "XBein"
+    ],
+    "Genu varum": [
+        "OBein"
+    ],
+    "Hallux valgus": [
+        "Großzehenabweichung nach außen"
+    ],
+    "Hallux varus": [
+        "Großzehenabweichung nach innen"
+    ],
+    "Pes valgus": [
+        "Knickfuß"
+    ],
+    "Pes equinus": [
+        "Spitzfuß"
+    ],
+    "Pes equinovarus": [
+        "Klumpfuß"
+    ],
+    "Pes planus": [
+        "Plattfuß"
+    ],
+    "Pes excavatus": [
+        "Hohlfuß"
+    ],
+    "Pes cavus": [
+        "Hohlfuß"
+    ],
+    "Pes calcaneus": [
+        "Hackenfuß"
+    ],
+    "Myalgie": [
+        "Muskelschmerzen"
+    ],
+    "Myositis": [
+        "Muskelentzündung"
+    ],
+    "Myelitis": [
+        "Rückenmarksentzündung"
+    ],
+    "Myopathie": [
+        "Muskelerkrankung"
+    ],
+    "Amyotrophie Muskelatrophie": [
+        "Muskelschwund"
+    ],
+    "Torticollis": [
+        "Schiefhals"
+    ],
+    "Myom": [
+        "gutartige Muskelgeschwulst"
+    ],
+    "Tendo": [
+        "Sehne"
+    ],
+    "Tendinitis": [
+        "Sehnenentzündung"
+    ],
+    "Tendovaginitis": [
+        "Sehnenscheidenentzündung"
+    ],
+    "Tendosynovitis": [
+        "Sehnenscheidenentzündung"
+    ],
+    "Tendo Achillis": [
+        "Achillessehne"
+    ],
+    "Tendo calcaneus": [
+        "Achillessehne"
+    ],
+    "Tenotomie": [
+        "operative Durchtrennung einer Sehne"
+    ],
+    "Periost": [
+        "Knochenhaut"
+    ],
+    "Periostitis": [
+        "Knochenhautentzündung"
+    ],
+    "Osteogenese": [
+        "Knochenneubildung",
+        "Knochenbildung"
+    ],
+    "Osteolyse": [
+        "Knochenabbau"
+    ],
+    "Osteoporose": [
+        "Knochenschwund"
+    ],
+    "Osteomalazie": [
+        "Knochenerweichung"
+    ],
+    "Osteom": [
+        "bösartige Knochengeschwulst",
+        "gutartige"
+    ],
+    "Osteosarkom": [
+        "bösartige Knochengeschwulst",
+        "gutartige"
+    ],
+    "Osteogenesis imperfecta": [
+        "Glasknochenkrankheit"
+    ],
+    "Ruptur": [
+        "Zerreißung",
+        "Riss"
+    ],
+    "Fraktur": [
+        "Knochenbruch"
+    ],
+    "frakturieren": [
+        "brechen"
+    ],
+    "frakturiert": [
+        "gebrochen"
+    ],
+    "Fragilität": [
+        "Anfälligkeit für Frakturen"
+    ],
+    "fragil": [
+        "leicht zerbrechlich"
+    ],
+    "Frakturfragment": [
+        "Stück",
+        "Bruchstück"
+    ],
+    "Fragment": [
+        "Stück",
+        "Bruchstück"
+    ],
+    "Dislokation": [
+        "Verlagerung",
+        "Umsetzung",
+        "Versetzung",
+        "Fehlstellung"
+    ],
+    "Luxation": [
+        "vollständige Verrenkung",
+        "Ausrenkung",
+        "Auskugelung"
+    ],
+    "Subluxation": [
+        "unvollständige Verrenkung"
+    ],
+    "Luxationsfraktur": [
+        "Verrenkungsbruch"
+    ],
+    "Kontraktur": [
+        "Verkürzung",
+        "Schrumpfung"
+    ],
+    "Kontraktion": [
+        "verkürzen",
+        "Zusammenziehung",
+        "Verkürzung"
+    ],
+    "Kontrahieren": [
+        "verkürzen",
+        "Zusammenziehung",
+        "Verkürzung"
+    ],
+    "kontraktieren": [
+        "verkürzen",
+        "Zusammenziehung",
+        "Verkürzung"
+    ],
+    "kontrahieren": [
+        "zusammenziehend",
+        "zusammenziehen"
+    ],
+    "adstringieren": [
+        "zusammenziehend",
+        "zusammenziehen"
+    ],
+    "kontraktil": [
+        "zusammenziehend",
+        "zusammenziehen"
+    ],
+    "Konstriktion": [
+        "Einengung",
+        "Einschnürung",
+        "Verengung"
+    ],
+    "Striktur": [
+        "Einengung",
+        "Einschnürung",
+        "Verengung"
+    ],
+    "Fissur": [
+        "Ritz",
+        "Schlitz",
+        "Spalte",
+        "Kluft",
+        "Furche",
+        "Riss",
+        "Rinne",
+        "Einriss"
+    ],
+    "Fissura": [
+        "Ritz",
+        "Schlitz",
+        "Spalte",
+        "Kluft",
+        "Furche",
+        "Riss",
+        "Rinne",
+        "Einriss"
+    ],
+    "Systema nervosum centrale": [
+        "zentrales Nervensystem"
+    ],
+    "Encephalon": [
+        "Gehirn"
+    ],
+    "Cerebrum": [
+        "Großhirn"
+    ],
+    "Cerebellum": [
+        "Kleinhirn"
+    ],
+    "Diencephalon": [
+        "Zwischenhirn"
+    ],
+    "Truncus cerebri": [
+        "Hirnstamm"
+    ],
+    "Truncus encephali": [
+        "Hirnstamm"
+    ],
+    "Medulla oblongata": [
+        "verlängertes Rückenmark",
+        "Bulbärhirn"
+    ],
+    "Bulbus cerebri": [
+        "verlängertes Rückenmark",
+        "Bulbärhirn"
+    ],
+    "Pons": [
+        "Brücke"
+    ],
+    "Mesencephalon": [
+        "Mittelhirn"
+    ],
+    "Midbrain": [
+        "Mittelhirn"
+    ],
+    "Cortex cerebri": [
+        "Rinde",
+        "Großhirnrinde"
+    ],
+    "Cortex": [
+        "Rinde",
+        "Großhirnrinde"
+    ],
+    "Enzephalitis": [
+        "Gehirnentzündung"
+    ],
+    "Enzephalopathie": [
+        "Gehirnkrankheit"
+    ],
+    "Cephalgie": [
+        "Kopfschmerzen"
+    ],
+    "intrakraniell": [
+        "innerhalb des Schädels"
+    ],
+    "intrakranial": [
+        "innerhalb des Schädels"
+    ],
+    "Corpus callosum": [
+        "Balken"
+    ],
+    "Medulla spinalis Myelon": [
+        "Rückenmark"
+    ],
+    "Gyrus cerebri": [
+        "Gehirnwindung"
+    ],
+    "Meningen": [
+        "Hirn und Rückenmarkshäute"
+    ],
+    "Dura mater": [
+        "harte Hirnhaut"
+    ],
+    "Arachnoidea mater": [
+        "Spinngewebshaut",
+        "Spinnwebenhaut"
+    ],
+    "Pia mater": [
+        "weiche",
+        "innere Hirnhaut"
+    ],
+    "Meningitis": [
+        "Hirnhautentzündung"
+    ],
+    "Liquor cerebri": [
+        "Gehirnwasser",
+        "Gehirn und Rückenmarksflüssigkeit"
+    ],
+    "Liquor cerebrospinalis": [
+        "Gehirnwasser",
+        "Gehirn und Rückenmarksflüssigkeit"
+    ],
+    "Hydrozephalus": [
+        "Wasserkopf"
+    ],
+    "Opisthotonus": [
+        "Nackensteifigkeit"
+    ],
+    "Tentorium": [
+        "Zelt"
+    ],
+    "Neuron": [
+        "Nervenzelle"
+    ],
+    "Systema nervosum periphericum": [
+        "peripheres Nervensystem"
+    ],
+    "Ganglion": [
+        "Überbein",
+        "Nervenknoten"
+    ],
+    "Plexus": [
+        "Geflecht"
+    ],
+    "Nervus(Nervi)": [
+        "Nerv(en)"
+    ],
+    "Nervi craniales": [
+        "Hirnnerven"
+    ],
+    "Nervus olfactorius 1": [
+        "Riechnerv"
+    ],
+    "Nervus opticus 2": [
+        "Sehnerv"
+    ],
+    "Chiasma opticum": [
+        "Sehnervenkreuzung"
+    ],
+    "Nervus facialis 7": [
+        "Gesichtsnerv"
+    ],
+    "Nervus vestibulocochlearis 8": [
+        "Hörnerv"
+    ],
+    "Nervus vagus": [
+        "10. Hirnnerv"
+    ],
+    "Nervus spinalis": [
+        "Spinalnerv"
+    ],
+    "Nervus phrenicus": [
+        "Zwerchfellnerv"
+    ],
+    "diaphragmaticus": [
+        "Zwerchfellnerv"
+    ],
+    "Neuritis": [
+        "Nervenentzündung"
+    ],
+    "Innervation": [
+        "Nervenversorgung"
+    ],
+    "Neuralgie": [
+        "Nervenschmerzen"
+    ],
+    "Radix": [
+        "Wurzel"
+    ],
+    "radikulär": [
+        "eine Nervenwurzel betreffend"
+    ],
+    "Papilla nervi optici": [
+        "Sehnervkopf"
+    ],
+    "Papille": [
+        "Sehnervkopf"
+    ],
+    "Commotio": [
+        "quetschung",
+        "Gehirn erschütterung",
+        "prellung"
+    ],
+    "Contusio": [
+        "quetschung",
+        "Gehirn erschütterung",
+        "prellung",
+        "Prellung"
+    ],
+    "Compressio cerebri": [
+        "quetschung",
+        "Gehirn erschütterung",
+        "prellung"
+    ],
+    "Apoplex": [
+        "Schlaganfall"
+    ],
+    "Apoplexie": [
+        "Schlaganfall"
+    ],
+    "apoplektischer Insult": [
+        "Schlaganfall"
+    ],
+    "Epilepsie": [
+        "Krampfanfall",
+        "Fallsucht",
+        "Krampfleiden"
+    ],
+    "Parkinson": [
+        "Schüttellähmung"
+    ],
+    "Spina bifida": [
+        "offene Wirbelsäule",
+        "Wirbelspalt"
+    ],
+    "Meningozele": [
+        "Vorwölbung von Dura mater durch den",
+        "Hirnhautbruch"
+    ],
+    "Meningomyelozele": [
+        "Vorwölbung von Dura mater und Rückenmark durch den"
+    ],
+    "Symptom": [
+        "Beschwerden",
+        "Krankheitszeichen"
+    ],
+    "Prodrom": [
+        "Vorzeichen",
+        "Frühsymptom"
+    ],
+    "Vigilanz": [
+        "Wachheit",
+        "Wachsamkeit"
+    ],
+    "Benommenheit": [
+        "reduzierte Wachheit"
+    ],
+    "Somnolenz": [
+        "abnorme Schläfrigkeit",
+        "schläfrig"
+    ],
+    "somnolent": [
+        "abnorme Schläfrigkeit",
+        "schläfrig"
+    ],
+    "Sopor": [
+        "tiefe Schläfrigkeit"
+    ],
+    "Koma": [
+        "tiefer Schlaf",
+        "nicht weckbar",
+        "tiefe Bewusstlosigkeit"
+    ],
+    "Lethargie": [
+        "Schläfrigkeit"
+    ],
+    "Narkolepsie": [
+        "Schlafkrankheit"
+    ],
+    "Konfusion": [
+        "Verwirrung"
+    ],
+    "Coma vigile": [
+        "Wachkoma"
+    ],
+    "Delirium": [
+        "Bewusstseinstrübung",
+        "verwirrt",
+        "Bewusstseinsstörung"
+    ],
+    "delirant": [
+        "Bewusstseinstrübung",
+        "verwirrt",
+        "Bewusstseinsstörung"
+    ],
+    "Halluzination": [
+        "Sinnestäuschung",
+        "Wahnwahrnehmungsstörung"
+    ],
+    "Illusion": [
+        "Sinnestäuschung",
+        "Wahnwahrnehmungsstörung"
+    ],
+    "Agnosie": [
+        "Störung des Erkennens"
+    ],
+    "Amnesie": [
+        "Erinnerungslücke",
+        "Gedächtnisverlust"
+    ],
+    "Alzheimer": [
+        "Demenz"
+    ],
+    "Insomnie": [
+        "Schlafstörung",
+        "Einschlafstörung",
+        "Schlaflosigkeit"
+    ],
+    "Dyssomnie": [
+        "Schlafstörung",
+        "Einschlafstörung",
+        "Schlaflosigkeit"
+    ],
+    "Demenz": [
+        "geistiger Verfall"
+    ],
+    "Dysarthrie": [
+        "Sprechstörung"
+    ],
+    "Anarthrie": [
+        "Sprechverlust"
+    ],
+    "Dysphasie": [
+        "Sprachstörung"
+    ],
+    "Aphasie": [
+        "Sprachverlust"
+    ],
+    "Dysphonie": [
+        "Stimmstörung",
+        "Heiserkeit"
+    ],
+    "Aphonie": [
+        "Stimmlosigkeit"
+    ],
+    "Dyslalie": [
+        "Stammeln",
+        "Artikulationsstörung"
+    ],
+    "Tic": [
+        "Muskelzuckungen"
+    ],
+    "Dyslexie": [
+        "Lesestörung"
+    ],
+    "Legasthenie": [
+        "Lesestörung"
+    ],
+    "Alexie": [
+        "Leseblindheit"
+    ],
+    "Logopädie": [
+        "Sprachheilkunde",
+        "Sprachtherapie"
+    ],
+    "RestlessLegsSyndrom": [
+        "unruhige Beine"
+    ],
+    "Enzephalomyelitis": [
+        "Gehirn und Rückenmarksentzündung"
+    ],
+    "Ataxie": [
+        "Bewegungskoordinationsstörung"
+    ],
+    "Dysdiadochokinese": [
+        "Bewegungskoordinationsstörung"
+    ],
+    "Sensus": [
+        "Gefühl",
+        "Sinn"
+    ],
+    "Sensation": [
+        "Wahrnehmung",
+        "Empfindung"
+    ],
+    "Anästhesie": [
+        "Betäubung",
+        "kompletter Ausfall"
+    ],
+    "Hypästhesie": [
+        "Taubheitsgefühl"
+    ],
+    "Hyperästhesie": [
+        "Überempfindlichkeit"
+    ],
+    "Parästhesie": [
+        "Kribbeln",
+        "schmerzlose Missempfindung"
+    ],
+    "Dysästhesie": [
+        "unangenehme Missempfindung",
+        "schmerzhafte"
+    ],
+    "Motus": [
+        "Bewegung"
+    ],
+    "Parese (parese)": [
+        "teilweise Lähmung Erschlaffung",
+        "unvollständige"
+    ],
+    "Fazialisparese": [
+        "Gesichtslähmung"
+    ],
+    "Paraparese": [
+        "teilweise Lähmung beider Beine"
+    ],
+    "Hemiparese": [
+        "Lähmung einer Körperseite",
+        "teilweise Halbseitenlähmung"
+    ],
+    "Tetraparese": [
+        "teilweise Lähmung aller vier Extremitäten"
+    ],
+    "Paralyse (plegie)": [
+        "vollständige Lähmung Schwächung"
+    ],
+    "Paraplegie": [
+        "vollständige Lähmung beider Beine"
+    ],
+    "Hemiplegie": [
+        "vollständige Halbseitenlähmung",
+        "Lähmung einer Körperseite"
+    ],
+    "Tetraplegie": [
+        "vollständige Lähmung aller vier Extremitäten"
+    ],
+    "Neurologe": [
+        "Nervenarzt"
+    ],
+    "Ophthalmologie": [
+        "& Augen",
+        "Augenheilkunde"
+    ],
+    "Orbita": [
+        "Augenhöhle"
+    ],
+    "Oculus": [
+        "Auge"
+    ],
+    "Ophthalmos": [
+        "Auge"
+    ],
+    "Kornea": [
+        "Hornhaut des Auges"
+    ],
+    "Keratitis": [
+        "Hornhautentzündung"
+    ],
+    "Limbus corneae": [
+        "Cornealrand"
+    ],
+    "Limbus": [
+        "Vorderrand",
+        "Rand"
+    ],
+    "Saum": [
+        "Vorderrand",
+        "Rand"
+    ],
+    "Margo anterior": [
+        "Vorderrand",
+        "Rand"
+    ],
+    "Konjunktiva": [
+        "Bindehaut des Auges"
+    ],
+    "Konjunktivitis": [
+        "Bindehautentzündung"
+    ],
+    "Iris": [
+        "Regenbogenhaut des Auges"
+    ],
+    "Iritis": [
+        "Regenbogenhautentzündung"
+    ],
+    "Retina": [
+        "Netzhaut des Auges"
+    ],
+    "Retinitis": [
+        "Netzhauterkrankung",
+        "Netzhautentzündung"
+    ],
+    "Retinopathie": [
+        "Netzhauterkrankung",
+        "Netzhautentzündung"
+    ],
+    "Choroidea": [
+        "Aderhaut des Auges"
+    ],
+    "Sclera": [
+        "Lederhaut des Auges"
+    ],
+    "Sklera": [
+        "Lederhaut des Auges"
+    ],
+    "Lens oculi": [
+        "Linse",
+        "Augenlinse"
+    ],
+    "Phakos": [
+        "Linse",
+        "Augenlinse"
+    ],
+    "Aphakie": [
+        "Fehlen der Augenlinse"
+    ],
+    "Dysphakie": [
+        "Fehllage der Augenlinse"
+    ],
+    "Bulbus oculi": [
+        "Augapfel"
+    ],
+    "Ablatio retinae": [
+        "Netzhautablösung"
+    ],
+    "Pupille": [
+        "Sehloch"
+    ],
+    "Isokorie": [
+        "Seitengleichheit der Pupillen"
+    ],
+    "Anisokorie": [
+        "Seitenungleichheit",
+        "Seitendifferenz der Pupillen"
+    ],
+    "Gefäßhaut": [
+        "mittlere Augenhaut"
+    ],
+    "1. Corpus ciliare": [
+        "Ziliarkörper"
+    ],
+    "Uveitis": [
+        "Gefäßhautentzündung"
+    ],
+    "Cilium": [
+        "Wimper(n)"
+    ],
+    "Zilie(n)": [
+        "Wimper(n)"
+    ],
+    "Corpus vitreum": [
+        "Glaskörper"
+    ],
+    "Camera anterior bulbi": [
+        "Augenvorderkammer"
+    ],
+    "Apparatus lacrimalis": [
+        "Tränenapparat"
+    ],
+    "Glandula lacrimalis": [
+        "Tränendrüse"
+    ],
+    "Canalis lacrimalis": [
+        "Tränenkanal"
+    ],
+    "Saccus lacrimalis": [
+        "Tränensack"
+    ],
+    "Ductus nasolacrimalis": [
+        "Tränennasengang"
+    ],
+    "Lacrimal drainage": [
+        "Tränenfluss"
+    ],
+    "Palpebra": [
+        "Augenlid"
+    ],
+    "Blepharon": [
+        "Augenlid"
+    ],
+    "Ptosis": [
+        "Lidsenkung"
+    ],
+    "Ptose": [
+        "Lidsenkung"
+    ],
+    "Hordeolum": [
+        "Gerstenkorn"
+    ],
+    "Chalazion": [
+        "Hagelkorn"
+    ],
+    "Blepharitis": [
+        "Augenlidentzündung"
+    ],
+    "visuelle Wahrnehmung": [
+        "das Sehen"
+    ],
+    "Visus": [
+        "Sehstärke",
+        "Sehschärfe"
+    ],
+    "Emmetropie": [
+        "Normalsichtigkeit"
+    ],
+    "Ametropie; 3 Formen:": [
+        "Fehlsichtigkeit"
+    ],
+    "Hyperopie": [
+        "Weitsichtigkeit",
+        "Übersichtigkeit"
+    ],
+    "Hypermetropie": [
+        "Weitsichtigkeit",
+        "Übersichtigkeit"
+    ],
+    "Myopie": [
+        "Kurzsichtigkeit",
+        "kurzsichtig"
+    ],
+    "myop": [
+        "Kurzsichtigkeit",
+        "kurzsichtig"
+    ],
+    "Astigmatismus": [
+        "Stabsichtigkeit"
+    ],
+    "Presbyopie": [
+        "Altersweitsichtigkeit",
+        "Alterssichtigkeit"
+    ],
+    "Amblyopie": [
+        "Schwachsichtigkeit"
+    ],
+    "Diplopie": [
+        "Doppel(t)sehen"
+    ],
+    "Nyktalopie": [
+        "Nachtblindheit"
+    ],
+    "Hemeralopie": [
+        "Tagblindheit"
+    ],
+    "Hemianopsie": [
+        "Halbseitenblindheit"
+    ],
+    "Amaurose": [
+        "vollständige Blindheit"
+    ],
+    "Amaurosis": [
+        "vollständige Blindheit"
+    ],
+    "Amaurosis fugax": [
+        "vorübergehende Blindheit"
+    ],
+    "Skotom": [
+        "Gesichtsfeldausfall"
+    ],
+    "Strabismus": [
+        "Schielen"
+    ],
+    "Nystagmus": [
+        "Augenzittern"
+    ],
+    "intraokulärer Druck": [
+        "Augeninnendruck"
+    ],
+    "Glaukom": [
+        "grüner Star",
+        "erhöhter Augeninnendruck"
+    ],
+    "Katarakt": [
+        "grauer Star",
+        "Linsentrübung"
+    ],
+    "Enophthalmie": [
+        "Zurücktreten des Augapfels"
+    ],
+    "Enophthalmus": [
+        "Zurücktreten des Augapfels"
+    ],
+    "Exophthalmie": [
+        "Hervortreten des Augapfels"
+    ],
+    "Exophthalmus": [
+        "Hervortreten des Augapfels"
+    ],
+    "Protrusio bulbi": [
+        "Hervortreten des Augapfels"
+    ],
+    "Funduskopie": [
+        "Augenspiegelung"
+    ],
+    "Fundoskopie": [
+        "Augenspiegelung"
+    ],
+    "Ophthalmologe": [
+        "Augenarzt",
+        "Augenärztin"
+    ],
+    "Ophthalmologin": [
+        "Augenarzt",
+        "Augenärztin"
+    ],
+    "Kardiologie": [
+        "Herzspezialist Facharzt für Herzkrankheiten",
+        "Lehre von",
+        "& Herzkreislaufsystem"
+    ],
+    "Angiologie": [
+        "Gefäßarzt",
+        "Gefäßheilkunde",
+        "Fachgebiet für",
+        "& Herzkreislaufsystem"
+    ],
+    "Cor": [
+        "Herz"
+    ],
+    "Atrium": [
+        "Herzvorhof"
+    ],
+    "Ventriculus cordis": [
+        "linke Herzkammer"
+    ],
+    "Ventrikel dexter": [
+        "linke Herzkammer"
+    ],
+    "sinister rechte": [
+        "linke Herzkammer"
+    ],
+    "Septum": [
+        "Herzscheidewand"
+    ],
+    "Septum interatriale cordis": [
+        "Vorhofscheidewand"
+    ],
+    "Atriumseptumdefekt (ASD)": [
+        "Loch in der Vorhofscheidewand"
+    ],
+    "Ventrikelseptumdefekt (VSD)": [
+        "Loch in der Herzkammerscheidewand"
+    ],
+    "Foramen ovale": [
+        "ovales Loch in der Vorhofscheidewand"
+    ],
+    "Valva(Valvae) cordis": [
+        "Herzklappe(n)",
+        "Klappe"
+    ],
+    "Valva": [
+        "Herzklappe(n)",
+        "Klappe"
+    ],
+    "Valva aortae": [
+        "Aortenklappe"
+    ],
+    "Valva trunci pulmonalis": [
+        "Pulmonalklappe"
+    ],
+    "Valva mitralis": [
+        "Mitralklappe"
+    ],
+    "Valva bicuspidalis": [
+        "Mitralklappe"
+    ],
+    "Valva tricuspidalis": [
+        "Trikuspidalklappe"
+    ],
+    "Endokard": [
+        "Herzinnenhaut"
+    ],
+    "Endokarditis": [
+        "Herzinnenhautentzündung"
+    ],
+    "Myokard": [
+        "Herzmuskel"
+    ],
+    "Myokarditis": [
+        "Herzmuskelentzündung"
+    ],
+    "Myokardinfarkt": [
+        "Herzinfarkt"
+    ],
+    "Myokardinsuffizienz": [
+        "Herzmuskelschwäche",
+        "Herzschwäche"
+    ],
+    "Herzinsuffizienz": [
+        "Herzleistungsschwäche"
+    ],
+    "Kardiomyopathie": [
+        "Herzmuskelerkrankung"
+    ],
+    "Kardiomegalie": [
+        "krankhafte Herzmuskelvergrößerung"
+    ],
+    "kardiotoxisch": [
+        "herzschädigend"
+    ],
+    "Perikard": [
+        "Herzbeutel"
+    ],
+    "Perikarditis": [
+        "Herzbeutelentzündung"
+    ],
+    "Perikarderguss": [
+        "Flüssigkeitsansammlung im Herzbeutel"
+    ],
+    "Apex cordis": [
+        "Herzspitze"
+    ],
+    "Herzrhythmus": [
+        "Schlagfrequenz"
+    ],
+    "Herzfrequenz": [
+        "Schlagfrequenz"
+    ],
+    "Systole": [
+        "Zusammenziehungsphase des Herzmuskels"
+    ],
+    "Diastole": [
+        "Erschlaffungsphase des Herzmuskels"
+    ],
+    "Tachykardie": [
+        "beschleunigte Herzfrequenz",
+        "Herzjagen",
+        "Herzrasen"
+    ],
+    "Bradykardie": [
+        "verlangsamte Herzfrequenz"
+    ],
+    "Arrhythmie": [
+        "Herzrhythmusstörung"
+    ],
+    "Palpitation": [
+        "Herzklopfen",
+        "Herzpochen"
+    ],
+    "Asystolie": [
+        "Herzstillstand"
+    ],
+    "Vas": [
+        "in Bezug auf Blutgefäße",
+        "Gefäß"
+    ],
+    "vaskulär": [
+        "in Bezug auf Blutgefäße",
+        "Kreislaufversagen",
+        "Gefäß",
+        "Kreislaufstillstand"
+    ],
+    "Angiitis": [
+        "Blutgefäßentzündung"
+    ],
+    "Vaskulitis": [
+        "Blutgefäßentzündung"
+    ],
+    "Mikroangiopathie": [
+        "großen Blutgefäße",
+        "Erkrankung der kleinen"
+    ],
+    "Makroangiopathie": [
+        "großen Blutgefäße",
+        "Erkrankung der kleinen"
+    ],
+    "1. Arterie": [
+        "Schlagader"
+    ],
+    "Aorta": [
+        "Hauptschlagader"
+    ],
+    "Arcus aortae": [
+        "Bogen",
+        "Hauptschlagaderbogen"
+    ],
+    "Arcus": [
+        "Bogen",
+        "Hauptschlagaderbogen"
+    ],
+    "Arteria cerebri": [
+        "Hirnschlagader"
+    ],
+    "Arteria carotis": [
+        "Halsschlagader"
+    ],
+    "Arteria coronaria": [
+        "Herzkranzschlagader",
+        "Herzkranzarterie"
+    ],
+    "Arteria femoralis": [
+        "Oberschenkelschlagader"
+    ],
+    "Arteria poplitea": [
+        "Kniekehlenschlagader"
+    ],
+    "Arteriitis": [
+        "Schlagaderentzündung"
+    ],
+    "Arteriosklerose": [
+        "Gefäßverkalkung",
+        "Arterienverkalkung"
+    ],
+    "Atherosklerose": [
+        "Gefäßverkalkung",
+        "Arterienverkalkung"
+    ],
+    "Carotissklerose": [
+        "Halsschlagaderverkalkung",
+        "verhärtung"
+    ],
+    "Carotisstenose": [
+        "Halsschlagaderverengung"
+    ],
+    "Aortenstenose": [
+        "Hauptschlagaderverengung"
+    ],
+    "Sklerose": [
+        "Aufdehnung",
+        "Verkalkung",
+        "Einengung",
+        "Verengung",
+        "Verhärtung"
+    ],
+    "Stenose": [
+        "Aufdehnung",
+        "Verkalkung",
+        "Einengung",
+        "Verengung",
+        "Verhärtung"
+    ],
+    "Bougierung": [
+        "Aufdehnung",
+        "Verkalkung",
+        "Einengung",
+        "Verengung",
+        "Verhärtung"
+    ],
+    "2. Vene": [
+        "Blutader"
+    ],
+    "Phlebitis": [
+        "Venenentzündung"
+    ],
+    "Phlebektomie": [
+        "Venenentfernung"
+    ],
+    "Phlebotomie": [
+        "Aderlass"
+    ],
+    "Vena jugularis externa": [
+        "äußere Drosselvene"
+    ],
+    "Vena poplitea": [
+        "Kniekehlenvene"
+    ],
+    "Vena portae": [
+        "Pfortader"
+    ],
+    "Vena cava superior": [
+        "obere",
+        "untere Hohlvene"
+    ],
+    "inferior": [
+        "unten gelegen",
+        "obere",
+        "untere Hohlvene",
+        "unter"
+    ],
+    "3. Kapillare(n)": [
+        "Haargefäß(e)"
+    ],
+    "Systema lymphaticum": [
+        "lymphatisches System"
+    ],
+    "Vas lymphaticum": [
+        "Lymphgefäß"
+    ],
+    "Nodus lymphaticus(Nodi": [
+        "Knoten",
+        "Lymphknoten (Pl.=Sng.)"
+    ],
+    "Lymphadenitis": [
+        "Lymphknotenentzündung",
+        "Lymphgefäßentzündung"
+    ],
+    "Lymphangiitis": [
+        "Lymphknotenentzündung",
+        "Lymphgefäßentzündung"
+    ],
+    "Lymphadenopathie": [
+        "Lymphknotenerkrankung"
+    ],
+    "Lymphe": [
+        "Gewebeflüssigkeit",
+        "Zwischenzellflüssigkeit"
+    ],
+    "Lymphödem": [
+        "Schwellung durch Lymphstauung"
+    ],
+    "Wassereinlagerung": [
+        "im Bein"
+    ],
+    "Ischämie": [
+        "Minderdurchblutung",
+        "Mangeldurchblutung"
+    ],
+    "Claudicatio": [
+        "Hinken"
+    ],
+    "Claudicatio intermittens": [
+        "Schaufensterkrankheit (pAVK: periphere arterielle Verschlusskrankheit)"
+    ],
+    "Aneurysma": [
+        "örtliche Wanderweiterung des Herzens",
+        "einer Schlagader"
+    ],
+    "Angiospasmus": [
+        "Gefäßkrampf"
+    ],
+    "Vasospasmus": [
+        "Gefäßkrampf"
+    ],
+    "Spasmus": [
+        "Krampf",
+        "Verkrampfung"
+    ],
+    "Thrombus": [
+        "Blutgerinnsel"
+    ],
+    "Thrombose": [
+        "Verstopfung eines Blutgefäßes durch ein Blutgerinnsel"
+    ],
+    "Thrombophlebitis": [
+        "oberflächliche Beinvenenentzündung"
+    ],
+    "Phlebothrombose (TVT)": [
+        "tiefe Beinvenenentzündung"
+    ],
+    "Embolus": [
+        "Gefäßpfropf"
+    ],
+    "Embolie": [
+        "Verschluss eines Blutgefäßes durch einen Gefäßpfropf"
+    ],
+    "Embolismus": [
+        "Verschluss eines Blutgefäßes durch einen Gefäßpfropf"
+    ],
+    "arterielle": [
+        "Lungenhochdruck",
+        "Bluthochdruck"
+    ],
+    "pulmonale Hypertonie": [
+        "Lungenhochdruck",
+        "Bluthochdruck"
+    ],
+    "Hypotonie": [
+        "niedriger Blutdruck"
+    ],
+    "psychisch": [
+        "seelische Erschütterung"
+    ],
+    "Synkope": [
+        "Ohnmacht",
+        "kurze Bewusstlosigkeit",
+        "Kreislaufkollaps"
+    ],
+    "Kollaps": [
+        "Zusammenbruch"
+    ],
+    "Angina pectoris": [
+        "Brustenge"
+    ],
+    "Kontusion": [
+        "Prellung"
+    ],
+    "Contusio cordis": [
+        "Herzprellung"
+    ],
+    "Pulsus paradoxus": [
+        "Blutdruckabfall während der Einatmung"
+    ],
+    "Atrium fibrillation": [
+        "Vorhofflimmern"
+    ],
+    "Cor pulmonale": [
+        "Rechtsherzbelastung aufgrund Lungenhochdruck"
+    ],
+    "Vitium": [
+        "Herzklappenfehler",
+        "Fehler",
+        "Herzfehler"
+    ],
+    "Vitium cordis": [
+        "Herzklappenfehler",
+        "Fehler",
+        "Herzfehler"
+    ],
+    "Herzklappenvitium": [
+        "Herzklappenfehler",
+        "Fehler",
+        "Herzfehler"
+    ],
+    "Echokardiographie": [
+        "Ultraschalluntersuchung des Herzens"
+    ],
+    "Angiographie": [
+        "radiologische Gefäßdarstellung",
+        "bildliche"
+    ],
+    "Kanüle": [
+        "Hohlnadel",
+        "Zugang",
+        "Viggo"
+    ],
+    "Venenverweilkanüle": [
+        "Hohlnadel",
+        "Zugang",
+        "Viggo"
+    ],
+    "Braunüle": [
+        "Hohlnadel",
+        "Zugang",
+        "Viggo"
+    ],
+    "Injektion": [
+        "Einspritzung",
+        "einspritzen"
+    ],
+    "injizieren": [
+        "Einspritzung",
+        "einspritzen"
+    ],
+    "Infusion": [
+        "Flüssigkeitsgabe in die Venen",
+        "Tropf"
+    ],
+    "intravenös": [
+        "der Vene",
+        "in die"
+    ],
+    "Pacemaker": [
+        "Herzschrittmacher"
+    ],
+    "Sudor": [
+        "Schweiß"
+    ],
+    "Anhidrose": [
+        "vermehrte Schweißbildung",
+        "fehlende",
+        "verminderte"
+    ],
+    "Hypohidrose": [
+        "vermehrte Schweißbildung",
+        "fehlende",
+        "verminderte"
+    ],
+    "Hyperhidrose": [
+        "vermehrte Schweißbildung",
+        "fehlende",
+        "verminderte"
+    ],
+    "Kardiologe": [
+        "Herzspezialist Facharzt für Herzkrankheiten",
+        "Lehre von"
+    ],
+    "Angiologe": [
+        "Gefäßarzt",
+        "Gefäßheilkunde",
+        "Fachgebiet für"
+    ],
+    "Bypass": [
+        "künstlich angelegte Umgehung eines Blutgefäßabschnittes"
+    ],
+    "Ligatur": [
+        "Unterbindung"
+    ],
+    "Reanimation (CPR)": [
+        "HerzLungenWiederbelebung"
+    ],
+    "Blutzelle(n)": [
+        "Blutkörperchen"
+    ],
+    "Erythrozyt(en)": [
+        "rotes Blutkörperchen"
+    ],
+    "Leukozyt(en)": [
+        "weißes Blutkörperchen"
+    ],
+    "Leukozytose": [
+        "Vermehrung der weißen Blutkörperchen"
+    ],
+    "Leukopenie": [
+        "Verminderung der weißen Blutkörperchen"
+    ],
+    "Leukozytopenie": [
+        "Verminderung der weißen Blutkörperchen"
+    ],
+    "Makrophage": [
+        "Fresszelle"
+    ],
+    "Phagozyt": [
+        "Fresszelle"
+    ],
+    "Monozyt": [
+        "Fresszelle"
+    ],
+    "Thrombozyt(en)": [
+        "Blutplättchen"
+    ],
+    "Thrombozytose": [
+        "Vermehrung der Blutplättchen"
+    ],
+    "Verminderung": [
+        "der Blutplättchen"
+    ],
+    "Polyzythämie": [
+        "Vermehrung der roten Blutkörperchen"
+    ],
+    "Panzytopenie": [
+        "Verminderung aller Blutkörperchen"
+    ],
+    "Hämatopoese": [
+        "Blutbildung"
+    ],
+    "Hämolyse": [
+        "Auflösung von roten Blutkörperchen"
+    ],
+    "Hämoglobin": [
+        "roter Blutfarbstoff"
+    ],
+    "Anämie": [
+        "Blutarmut"
+    ],
+    "Leukämie": [
+        "Blutkrebs"
+    ],
+    "Hämorrhagie": [
+        "Blutverlust",
+        "Blutung"
+    ],
+    "Hämostase": [
+        "Blutstillung",
+        "Blutgerinnung"
+    ],
+    "Hypovolämie": [
+        "vermindertes Blutvolumen",
+        "Volumenmangel"
+    ],
+    "Hämopathie": [
+        "Bluterkrankung"
+    ],
+    "Hämophilie": [
+        "Blutgerinnungsstörung",
+        "Bluterkrankheit"
+    ],
+    "hämorrhagische Diathese": [
+        "Blutgerinnungsstörung",
+        "Bluterkrankheit"
+    ],
+    "Hämodialyse": [
+        "Blutwäsche"
+    ],
+    "Dialyse": [
+        "Blutwäsche"
+    ],
+    "Hyperlipidämie": [
+        "erhöhte Blutfettwerte"
+    ],
+    "Hyperglykämie": [
+        "erhöhter Blutzuckerspiegel"
+    ],
+    "Hypoglykämie": [
+        "Unterzuckerung",
+        "niedriger Blutzuckerspiegel"
+    ],
+    "Protein": [
+        "Eiweiß"
+    ],
+    "Albumin": [
+        "Bluteiweiß"
+    ],
+    "Agglutination": [
+        "Verklumpung",
+        "verklumpen",
+        "Zusammenballung"
+    ],
+    "agglutinieren": [
+        "Verklumpung",
+        "verklumpen",
+        "Zusammenballung"
+    ],
+    "Koagulation": [
+        "geronnen",
+        "gerinnen",
+        "Gerinnung"
+    ],
+    "koagulieren": [
+        "geronnen",
+        "gerinnen",
+        "Gerinnung"
+    ],
+    "koaguliert": [
+        "geronnen",
+        "gerinnen",
+        "Gerinnung"
+    ],
+    "Sepsis": [
+        "Blutvergiftung"
+    ],
+    "Plasmapherese": [
+        "Plasmaaustauschbehandlung"
+    ],
+    "Pulmologie": [
+        "Lehre von Lungenerkrankungen",
+        "& Atmungssystem",
+        "Lungenheilkunde"
+    ],
+    "Cavum nasi": [
+        "Nasenhöhle"
+    ],
+    "Concha(e) nasalis superior": [
+        "obere",
+        "untere Nasenmuschel(n)",
+        "mittlere"
+    ],
+    "Pharynx": [
+        "Rachen"
+    ],
+    "Pharyngitis": [
+        "Rachenentzündung"
+    ],
+    "Rhonchopathie": [
+        "Schnarchen"
+    ],
+    "Larynx": [
+        "Kehlkopfschwellung",
+        "Kehlkopf"
+    ],
+    "Larynxödem": [
+        "Kehlkopfschwellung",
+        "Kehlkopf"
+    ],
+    "Prominentia laryngea": [
+        "Adamsapfel"
+    ],
+    "Laryngitis": [
+        "Kehlkopfentzündung"
+    ],
+    "Krupp": [
+        "lebensbedrohliche Kehlkopfentzündung"
+    ],
+    "Epiglottis": [
+        "Kehldeckel"
+    ],
+    "Epiglottitis": [
+        "Kehldeckelentzündung"
+    ],
+    "Cartilago cricoidea": [
+        "Ringknorpel"
+    ],
+    "Cartilago thyroidea": [
+        "Schildknorpel"
+    ],
+    "Ligamentum vocale": [
+        "Stimmband"
+    ],
+    "Plica vocalis": [
+        "Stimmfalte",
+        "Stimmlippe"
+    ],
+    "Labia vocalis": [
+        "Stimmfalte",
+        "Stimmlippe"
+    ],
+    "Plica": [
+        "Wulst",
+        "Falte"
+    ],
+    "Laryngoskopie": [
+        "Kehlkopfspiegelung"
+    ],
+    "Laryngektomie": [
+        "Kehlkopfamputation",
+        "Kehlkopfentfernung"
+    ],
+    "Larynxkarzinom": [
+        "Kehlkopfkrebs"
+    ],
+    "Trachea": [
+        "Luftröhre"
+    ],
+    "Tracheitis": [
+        "Luftröhrenentzündung"
+    ],
+    "Tracheoskopie": [
+        "Luftröhrenspiegelung"
+    ],
+    "Tracheotomie": [
+        "Luftröhrenschnitt"
+    ],
+    "Tracheomalazie": [
+        "Luftröhrenerweichung"
+    ],
+    "Tracheostoma": [
+        "operative Eröffnung der Luftröhre"
+    ],
+    "Bronchus": [
+        "Luftröhrenast(äste)"
+    ],
+    "Bronchie(Bronchien)": [
+        "Luftröhrenast(äste)"
+    ],
+    "bronchial": [
+        "Luftröhrenäste betreffend"
+    ],
+    "Bronchiektasie": [
+        "Atemwegserweiterung"
+    ],
+    "Bronchitis": [
+        "Atemwegsentzündung"
+    ],
+    "Bronchialkarzinom": [
+        "bösartige Geschwulst der Luftröhrenäste"
+    ],
+    "Bronchospasmus": [
+        "krampfartige Verengung der Luftröhrenäste"
+    ],
+    "Bronchiallavage": [
+        "Spülung der Luftröhrenäste"
+    ],
+    "Bronchoskopie": [
+        "Lungenspiegelung",
+        "Spiegelung der Luftröhrenäste"
+    ],
+    "Pulmo": [
+        "in Bezug auf die Lunge",
+        "Lunge"
+    ],
+    "Pneumon": [
+        "in Bezug auf die Lunge",
+        "Lunge"
+    ],
+    "pulmonal": [
+        "in Bezug auf die Lunge",
+        "Lunge"
+    ],
+    "Pulmo dexter": [
+        "rechter",
+        "linker Lungenflügel (Lunge)"
+    ],
+    "sinister": [
+        "links",
+        "linker Leberlappen",
+        "linker Lungenflügel (Lunge)",
+        "linker Lebergang",
+        "rechts",
+        "rechter"
+    ],
+    "Lobi pulmonis": [
+        "Lungenlappen"
+    ],
+    "Lobektomie": [
+        "Lungenlappenentfernung"
+    ],
+    "Pneumonie": [
+        "Lungenentzündung"
+    ],
+    "Lobärpneumonie": [
+        "Lungenlappenentzündung"
+    ],
+    "schräge": [
+        "Furche der Lunge"
+    ],
+    "quere": [
+        "Furche der Lunge"
+    ],
+    "obliqua": [
+        "schräg"
+    ],
+    "obliquus": [
+        "schräg"
+    ],
+    "Lungenalveolen": [
+        "Lungenbläschen"
+    ],
+    "der Alveolus – die Alveoli (Pl.) .... die Alveole – die Alveolen": [
+        "(Pl.)"
+    ],
+    "Pleura": [
+        "Brustfell"
+    ],
+    "Pleura parietalis": [
+        "Rippenfell"
+    ],
+    "costalis": [
+        "Rippenfell"
+    ],
+    "Pleura visceralis": [
+        "Lungenfell"
+    ],
+    "pulmonalis": [
+        "Lungenfell"
+    ],
+    "Cavum pleurae": [
+        "Brustfellhöhle",
+        "Pleurahöhle",
+        "Pleuraspalt"
+    ],
+    "Cavitas": [
+        "Brustfellhöhle",
+        "Pleurahöhle",
+        "Pleuraspalt"
+    ],
+    "Pleuritis": [
+        "Brustfellentzündung"
+    ],
+    "Pleurolyse": [
+        "operative Ablösung von Verwachsungen der Pleura"
+    ],
+    "Pleurodese": [
+        "Verklebung des Pleuraspalts"
+    ],
+    "Pleurodynie": [
+        "Brustfellschmerzen"
+    ],
+    "Diaphragma": [
+        "Zwerchfell"
+    ],
+    "Mediastinum": [
+        "Mittelfell",
+        "Mittelfellraum"
+    ],
+    "Cavum mediastinale": [
+        "Mittelfell",
+        "Mittelfellraum"
+    ],
+    "Respiration": [
+        "Atmung"
+    ],
+    "Spiro": [
+        "Atmung"
+    ],
+    "pnoe": [
+        "Atmung"
+    ],
+    "Dyspnoe": [
+        "Luftnot",
+        "Atemstörung",
+        "Atemnot"
+    ],
+    "Orthopnoe": [
+        "Atemnot im Liegen"
+    ],
+    "Apnoe": [
+        "Atemstillstand"
+    ],
+    "Schlafapnoe": [
+        "Atemstillstände während des Schlafs"
+    ],
+    "Bradypnoe": [
+        "verlangsamte Atemfrequenz"
+    ],
+    "Tachypnoe": [
+        "beschleunigte Atemfrequenz",
+        "Schnellatmung"
+    ],
+    "Hypo": [
+        "flache",
+        "normale",
+        "vertiefte Atmung"
+    ],
+    "Hyper pnoe": [
+        "flache",
+        "normale",
+        "vertiefte Atmung"
+    ],
+    "Respirator": [
+        "Beatmungsgerät"
+    ],
+    "Inspiration": [
+        "Einatmung"
+    ],
+    "Exspiration": [
+        "Ausatmung"
+    ],
+    "Ventilation": [
+        "beschleunigte Lüftung",
+        "Belüftung",
+        "verlangsamte",
+        "Lüftung"
+    ],
+    "Hypoventilation": [
+        "beschleunigte Lüftung",
+        "Belüftung",
+        "verlangsamte",
+        "Lüftung"
+    ],
+    "Hyperventilation": [
+        "beschleunigte Lüftung",
+        "Belüftung",
+        "verlangsamte",
+        "Lüftung"
+    ],
+    "Adult Respiratory Distress Syndrom (ARDS)": [
+        "Schocklunge",
+        "akutes Lungenversagen"
+    ],
+    "chronisch obstruktive Lungenerkrankung (COPD chronische": [
+        "Verengung der Atemwege",
+        "Raucherhusten"
+    ],
+    "Emphysem": [
+        "Lungenaufblähung"
+    ],
+    "Asthma bronchiale": [
+        "anfallsartige Atemnot"
+    ],
+    "Stridor": [
+        "Atemnebengeräusch",
+        "zischendes Atemgeräusch",
+        "pfeifendes"
+    ],
+    "Pneumokoniose": [
+        "Staublunge"
+    ],
+    "Silikose": [
+        "Quarzstaublunge"
+    ],
+    "Lungenfibrose": [
+        "krankhafter Umbau von Lungengewebe in Bindegewebe"
+    ],
+    "Atelektase": [
+        "Zusammenfall eines Lungenteils",
+        "Lungenkollaps"
+    ],
+    "Lungenödem": [
+        "Flüssigkeitsansammlung in der Lunge",
+        "Wasserlunge"
+    ],
+    "Aspiration": [
+        "Ansaugen",
+        "Fremdstoffeinatmung",
+        "Verschlucken"
+    ],
+    "Zyanose": [
+        "Blauverfärbung der Haut",
+        "Blausucht"
+    ],
+    "Cyanosis": [
+        "Blauverfärbung der Haut",
+        "Blausucht"
+    ],
+    "Tuberkulose": [
+        "Schwindsucht"
+    ],
+    "Morbus Koch": [
+        "Schwindsucht"
+    ],
+    "Influenza": [
+        "Grippe"
+    ],
+    "Sternutatio": [
+        "Niesen"
+    ],
+    "Tussis": [
+        "Husten"
+    ],
+    "Expektoration": [
+        "Abhusten",
+        "abhusten"
+    ],
+    "expektorieren": [
+        "Abhusten",
+        "abhusten"
+    ],
+    "Expektorat": [
+        "Auswurf"
+    ],
+    "Sputum": [
+        "Auswurf"
+    ],
+    "purulent": [
+        "eitrig",
+        "Eiter"
+    ],
+    "mucopurulent": [
+        "schleimig & eitrig"
+    ],
+    "Hämoptyse": [
+        "Bluthusten"
+    ],
+    "Hämoptoe": [
+        "Bluthusten"
+    ],
+    "Pleuraerguss": [
+        "Flüssigkeitsansammlung im Pleuraspalt"
+    ],
+    "Pneumothorax": [
+        "krankhafte Luftansammlung im Pleuraspalt"
+    ],
+    "Hämothorax": [
+        "krankhafte Blutansammlung im Pleuraspalt"
+    ],
+    "Pyothorax": [
+        "krankhafte Eiteransammlung im Pleuraspalt"
+    ],
+    "Hämatopneumothorax": [
+        "krankhafte Blut– und Luftansammlung im Pleuraspalt"
+    ],
+    "Pneumologie": [
+        "Lehre von Lungenerkrankungen",
+        "Lungenheilkunde"
+    ],
+    "Pulmologe": [
+        "Facharzt für Lungenerkrankungen"
+    ],
+    "Gynäkologie & weibliches": [
+        "Genitalsystem"
+    ],
+    "Ovar": [
+        "Eierstock"
+    ],
+    "Ovarium": [
+        "Eierstock"
+    ],
+    "Oophoron": [
+        "Eierstock"
+    ],
+    "Oophoritis": [
+        "Eierstockentzündung"
+    ],
+    "Ovaritis": [
+        "Eierstockentzündung"
+    ],
+    "Ovariektomie": [
+        "Eierstockentfernung"
+    ],
+    "Oophorektomie": [
+        "Eierstockentfernung"
+    ],
+    "Ovum": [
+        "Ei",
+        "Eizelle"
+    ],
+    "O(v)ozyt": [
+        "Ei",
+        "Eizelle"
+    ],
+    "Ovarialzyste": [
+        "Eierstockzyste"
+    ],
+    "Penetration": [
+        "Durchdringung",
+        "Eindringen"
+    ],
+    "Salpinx": [
+        "Eileiter",
+        "Röhre"
+    ],
+    "Tuba uterina": [
+        "Eileiter",
+        "Röhre"
+    ],
+    "Tuba": [
+        "Eileiter",
+        "Samenleiter",
+        "Röhre"
+    ],
+    "Tubus": [
+        "Eileiter",
+        "Röhre"
+    ],
+    "Salpingitis": [
+        "Eileiterentzündung"
+    ],
+    "Salpingektomie": [
+        "Eileiterentfernung"
+    ],
+    "Adnexe": [
+        "Eierstöcke und Eileiter"
+    ],
+    "Adnexitis": [
+        "Entzündung der Eierstöcke und Eileiter"
+    ],
+    "Adnektomie": [
+        "Entfernung der Eierstöcke und Eileiter"
+    ],
+    "Uterus": [
+        "Gebärmutter",
+        "innerhalb der Gebärmutter"
+    ],
+    "Hystera": [
+        "Gebärmutter",
+        "innerhalb der Gebärmutter"
+    ],
+    "Metra": [
+        "Gebärmutter",
+        "innerhalb der Gebärmutter"
+    ],
+    "intrauterin": [
+        "Gebärmutter",
+        "innerhalb der Gebärmutter"
+    ],
+    "Cavum uteri": [
+        "Hohlraum",
+        "Gebärmutterhöhle"
+    ],
+    "Cavum": [
+        "Hohlraum",
+        "Gebärmutterhöhle"
+    ],
+    "Ostium uteri externum": [
+        "äußerer",
+        "innerer Gebärmuttermund"
+    ],
+    "internum": [
+        "äußerer",
+        "innerer Gebärmuttermund"
+    ],
+    "Cervix uteri": [
+        "Gebärmutterhals"
+    ],
+    "Zervixkarzinom": [
+        "Gebärmutterhalskrebs"
+    ],
+    "Endometrium": [
+        "Gebärmutterschleimhaut",
+        "Gebärmutterschleimhautentzündung"
+    ],
+    "Endometritis": [
+        "Gebärmutterschleimhaut",
+        "Gebärmutterschleimhautentzündung"
+    ],
+    "Myometrium": [
+        "Gebärmuttermuskel"
+    ],
+    "Uterusmyom": [
+        "gutartige Muskelgeschwulst der Gebärmutter"
+    ],
+    "Descensus uteri": [
+        "Gebärmuttervorfall",
+        "Gebärmuttersenkung"
+    ],
+    "Uterusprolaps": [
+        "Gebärmuttervorfall",
+        "Gebärmuttersenkung"
+    ],
+    "Uteroskopie": [
+        "Gebärmutterspiegelung"
+    ],
+    "Hysteroskopie": [
+        "Gebärmutterspiegelung"
+    ],
+    "Hysterektomie": [
+        "Gebärmutterentfernung"
+    ],
+    "Vagina (Kolpos)": [
+        "Scheide"
+    ],
+    "Vaginitis": [
+        "Scheidenentzündung"
+    ],
+    "Kolpitis": [
+        "Scheidenentzündung"
+    ],
+    "Fluor vaginalis": [
+        "Scheidenausfluss"
+    ],
+    "Fluor genitalis": [
+        "Scheidenausfluss"
+    ],
+    "Vaginismus": [
+        "Scheidenkrampf"
+    ],
+    "Vaginalruptur": [
+        "Scheidenriss"
+    ],
+    "Kolporrhexis": [
+        "Scheidenvernähen",
+        "Scheidenabriss"
+    ],
+    "Kolporrhaphie": [
+        "Scheidenvernähen",
+        "Scheidenabriss"
+    ],
+    "Kolposkopie": [
+        "Scheidenspiegelung"
+    ],
+    "Genital(Genitalien)": [
+        "Geschlechtsorgan(e)"
+    ],
+    "Vulva": [
+        "äußere weibliche Geschlechtsorgane"
+    ],
+    "Vulvitis": [
+        "Entzündung der äußeren weiblichen Geschlechtsorgane"
+    ],
+    "Lippe(n)": [
+        "Schamlippe(n)"
+    ],
+    "Labia majora pudendi": [
+        "äußere Schamlippen",
+        "große"
+    ],
+    "Labia minora pudendi": [
+        "innere Schamlippen",
+        "kleine"
+    ],
+    "Klitoris": [
+        "Kitzler"
+    ],
+    "Introitus vaginae": [
+        "Scheideneingang"
+    ],
+    "Hymen": [
+        "Jungfernhaut",
+        "Jungfernhäutchen"
+    ],
+    "Ovulation": [
+        "Eisprung"
+    ],
+    "Follikelsprung": [
+        "Eisprung"
+    ],
+    "Fertilisation": [
+        "Befruchtung"
+    ],
+    "Zygote": [
+        "befruchtete Eizelle"
+    ],
+    "InVitroFertilisation": [
+        "künstliche Befruchtung"
+    ],
+    "fertil": [
+        "Fruchtbarkeit",
+        "fruchtbar"
+    ],
+    "Fertilität": [
+        "Fruchtbarkeit",
+        "fruchtbar"
+    ],
+    "steril": [
+        "unfruchtbar",
+        "keimfrei"
+    ],
+    "inferti l": [
+        "unfruchtbar",
+        "keimfrei"
+    ],
+    "aseptisch": [
+        "unfruchtbar",
+        "keimfrei"
+    ],
+    "antiseptisch": [
+        "Entfernung der Keimdrüsen",
+        "Entkeimung",
+        "keimbekämpfend"
+    ],
+    "Sterilisation": [
+        "Entfernung der Keimdrüsen",
+        "Entkeimung",
+        "keimbekämpfend"
+    ],
+    "Sterilität": [
+        "Unfruchtbarkeit"
+    ],
+    "Infertilität": [
+        "Unfruchtbarkeit"
+    ],
+    "Corpus luteum": [
+        "Gelbkörper"
+    ],
+    "Gravidität": [
+        "Schwangerschaft"
+    ],
+    "Gestatio": [
+        "Schwangerschaft"
+    ],
+    "gravid": [
+        "schwanger"
+    ],
+    "gravidus": [
+        "schwanger"
+    ],
+    "Gravide": [
+        "Schwangere"
+    ],
+    "Gravida": [
+        "Schwangere"
+    ],
+    "Tubargravidität": [
+        "Schwangerschaft",
+        "Eileiterschwangerschaft"
+    ],
+    "Extrauteringravidität": [
+        "Schwangerschaft",
+        "Eileiterschwangerschaft"
+    ],
+    "ektope Gravidität": [
+        "außerhalb der Gebärmutterhöhle"
+    ],
+    "Hyperemesis gravidarum": [
+        "übermäßiges Schwangerschaftserbrechen"
+    ],
+    "Plazenta": [
+        "Mutterkuchen"
+    ],
+    "Placenta praevia": [
+        "Fehllage des Mutterkuchens"
+    ],
+    "Ablatio placentae": [
+        "vorzeitige Ablösung des Mutterkuchens"
+    ],
+    "Chorion": [
+        "Zottenhaut"
+    ],
+    "Amnion": [
+        "Fruchtblase"
+    ],
+    "Liquor amnii": [
+        "Fruchtwasser"
+    ],
+    "Amnioskopie": [
+        "Fruchtwasserspiegelung"
+    ],
+    "Amniozentese": [
+        "Fruchtwasserentnahme",
+        "Fruchtwasserpunktion"
+    ],
+    "Embryo": [
+        "Keimling (ungeborenes Kind bis der 9.",
+        "Keim"
+    ],
+    "Fetus": [
+        "ungeborenes Kind ab der 9. Schwangerschaftswoche"
+    ],
+    "Fötus": [
+        "ungeborenes Kind ab der 9. Schwangerschaftswoche"
+    ],
+    "Infant": [
+        "Säugling",
+        "Kleinkind"
+    ],
+    "Geminus(Gemini)": [
+        "Zwilling(e)"
+    ],
+    "Partus": [
+        "Geburt",
+        "Entbindung"
+    ],
+    "Partus praematurus": [
+        "Frühgeburt",
+        "Frühgeburtlichkeit"
+    ],
+    "Partus serotinus": [
+        "Spätgeburt"
+    ],
+    "Abort": [
+        "Fehlgeburt"
+    ],
+    "Abortion": [
+        "Fehlgeburt"
+    ],
+    "Interruptio": [
+        "Schwangerschaftsabbruch",
+        "Abtreibung"
+    ],
+    "maturus": [
+        "reif"
+    ],
+    "Perineum": [
+        "Damm"
+    ],
+    "Episiotomie": [
+        "Dammschnitt"
+    ],
+    "Präeklampsie": [
+        "Schwangerschaftsvergiftung"
+    ],
+    "Sectio caesarea": [
+        "Kaiserschnitt"
+    ],
+    "Abrasio uteri": [
+        "Ausschabung",
+        "Auskratzung der Gebärmutterschleimhaut"
+    ],
+    "postpartal": [
+        "nach der Geburt"
+    ],
+    "post partum": [
+        "nach der Geburt"
+    ],
+    "Puerperium": [
+        "Wochenbett"
+    ],
+    "Puerperalfieber": [
+        "Wochenbettfieber"
+    ],
+    "Hermaphrodit": [
+        "Zwitter"
+    ],
+    "Mamma": [
+        "Brustdrüse",
+        "weibliche Brust"
+    ],
+    "Glandula mammaria": [
+        "Brustdrüse",
+        "weibliche Brust"
+    ],
+    "Mastitis": [
+        "Brustdrüsenentzündung"
+    ],
+    "Mamille(n)": [
+        "Brustwarze(n)",
+        "Brustwarzenentzündung"
+    ],
+    "Papilla mammae": [
+        "Brustwarze(n)",
+        "Brustwarzenentzündung"
+    ],
+    "Thelitis": [
+        "Brustwarze(n)",
+        "Brustwarzenentzündung"
+    ],
+    "Laktation": [
+        "Muttermilchproduktion"
+    ],
+    "Galaktorrhoe": [
+        "krankhafter Milchfluss"
+    ],
+    "Gynäkomastie": [
+        "krankhafte Vergrößerung der männlichen Brustdrüsen"
+    ],
+    "Mastektomie": [
+        "Brustamputation",
+        "Brustentfernung"
+    ],
+    "Ablatio mammae": [
+        "Brustamputation",
+        "Brustentfernung"
+    ],
+    "Mammakarzinom": [
+        "bösartige Geschwulst der Brust",
+        "Brustkrebs"
+    ],
+    "Klimakterium": [
+        "Wechseljahre der Frau"
+    ],
+    "Klimax": [
+        "Wechseljahre der Frau"
+    ],
+    "Menstruation": [
+        "Regelblutung",
+        "Monatsblutung",
+        "Periode"
+    ],
+    "Menorrhoe": [
+        "Regelblutung",
+        "Monatsblutung",
+        "Periode"
+    ],
+    "Menses": [
+        "Regelblutung",
+        "Monatsblutung",
+        "Periode"
+    ],
+    "Menarche": [
+        "erste Monatsblutung"
+    ],
+    "Menopause": [
+        "letzte Monatsblutung"
+    ],
+    "Menorrhagie": [
+        "verlängerte Monatsblutung"
+    ],
+    "Brachymenorrhoe": [
+        "verkürzte Monatsblutung"
+    ],
+    "Hypermenorrhoe": [
+        "starke Monatsblutung"
+    ],
+    "Hypomenorrhoe": [
+        "schwache Monatsblutung",
+        "zu seltene Monatsblutung"
+    ],
+    "Oligomenorrhoe": [
+        "schwache Monatsblutung",
+        "zu seltene Monatsblutung"
+    ],
+    "Metrorrhagie": [
+        "Zwischenblutung",
+        "azyklische Monatsblutung"
+    ],
+    "Amenorrhoe": [
+        "Ausbleiben der Monatsblutung"
+    ],
+    "Hormonentzugsblutung": [
+        "Abbruchblutung"
+    ],
+    "Dysmenorrhoe": [
+        "schmerzhafte Monatsblutung"
+    ],
+    "Libido": [
+        "Geschlechtstrieb"
+    ],
+    "Dyspareunie": [
+        "schmerzhafter Geschlechtsverkehr"
+    ],
+    "Lavage": [
+        "Spülung"
+    ],
+    "Mammographie": [
+        "Röntgenuntersuchung der weiblichen Brust"
+    ],
+    "Gynäkologie": [
+        "Fachgebiet für Frauenerkrankungen",
+        "Frauenheilkunde"
+    ],
+    "Gynäkologin": [
+        "Fachärztin für Frauenerkrankungen",
+        "Frauenärztin"
+    ],
+    "Otorhinolaryngologie": [
+        "& HNO"
+    ],
+    "Nasus": [
+        "Nase"
+    ],
+    "Rhin": [
+        "Nase"
+    ],
+    "Naris(Nares)": [
+        "Nasenloch",
+        "Naseneingang",
+        "Nasenöffnung"
+    ],
+    "Septum nasi": [
+        "Nasenscheidewand",
+        "Nasentrennwand"
+    ],
+    "Rhinitis": [
+        "Nasenschleimhautentzündung",
+        "Schnupfen"
+    ],
+    "allergische Rhinitis": [
+        "Heuschnupfen"
+    ],
+    "Pollinose": [
+        "Heuschnupfen"
+    ],
+    "Rhinoplastik": [
+        "Nasenkorrektur"
+    ],
+    "Rhinoskopie": [
+        "Nasenspiegelung"
+    ],
+    "Anosmie": [
+        "Riechverlust"
+    ],
+    "Hyposmie": [
+        "Riechminderung"
+    ],
+    "Epistaxis": [
+        "Nasenbluten",
+        "heftiges Nasenbluten"
+    ],
+    "Rhinorrhagie": [
+        "Nasenbluten",
+        "heftiges Nasenbluten"
+    ],
+    "Rhinorrhoe": [
+        "Nasenlaufen",
+        "laufende Nase"
+    ],
+    "Sinus paranasales": [
+        "Höhle",
+        "Nasennebenhöhlen"
+    ],
+    "Sinus": [
+        "Höhle",
+        "Nasennebenhöhlen"
+    ],
+    "Sinus frontalis": [
+        "Stirnhöhle"
+    ],
+    "Sinus maxillaris": [
+        "Oberkieferhöhle",
+        "Kieferhöhle"
+    ],
+    "Sinus sphenoidalis": [
+        "Keilbeinhöhle"
+    ],
+    "Sinus ethmoidales": [
+        "Siebbeinzellen",
+        "Siebbeinhöhlen"
+    ],
+    "Cellulae": [
+        "Siebbeinzellen",
+        "Siebbeinhöhlen"
+    ],
+    "Sinusitis": [
+        "Nasennebenhöhlenentzündung",
+        "Kieferhöhlenentzündung"
+    ],
+    "Sinusitis maxillaris": [
+        "Nasennebenhöhlenentzündung",
+        "Kieferhöhlenentzündung"
+    ],
+    "Sella turcica": [
+        "Sattel",
+        "Türkensattel"
+    ],
+    "Sella": [
+        "Sattel",
+        "Türkensattel"
+    ],
+    "Sinusitis frontalis": [
+        "Stirnhöhlenentzündung"
+    ],
+    "Auris": [
+        "Ohr"
+    ],
+    "Ous": [
+        "Ohr"
+    ],
+    "Otitis": [
+        "Ohrenentzündung"
+    ],
+    "Auris externa": [
+        "Außenohr"
+    ],
+    "Auricula auris": [
+        "Ohrmuschel"
+    ],
+    "Meatus acusticus externus": [
+        "äußerer Gehörgang"
+    ],
+    "Zerumen": [
+        "Ohrenschmalz"
+    ],
+    "Cerumen": [
+        "Ohrenschmalz"
+    ],
+    "Otomykose": [
+        "Pilzinfektion des äußeren Gehörganges"
+    ],
+    "Membrana tympani": [
+        "Trommelfell"
+    ],
+    "Myringitis": [
+        "Trommelfellentzündung"
+    ],
+    "Parazentese": [
+        "Trommelfelldurchstechung",
+        "Trommelfellschnitt"
+    ],
+    "Myringotomie": [
+        "Trommelfelldurchstechung",
+        "Trommelfellschnitt"
+    ],
+    "Trommelfell perforation": [
+        "Trommelfellloch",
+        "Trommelfellverletzung"
+    ],
+    "Perforation": [
+        "Durchbruch",
+        "Durchbohrung"
+    ],
+    "Auris media": [
+        "Mittelohr"
+    ],
+    "Cavitas tympanica": [
+        "Paukenhöhle",
+        "Pauke"
+    ],
+    "Tympanum": [
+        "Paukenhöhle",
+        "Pauke"
+    ],
+    "Tuba auditiva": [
+        "eustachische Röhre",
+        "Ohrtrompete"
+    ],
+    "Tuba Eustachii": [
+        "eustachische Röhre",
+        "Ohrtrompete"
+    ],
+    "Ossicula auditiva": [
+        "Gehörknöchelchen"
+    ],
+    "Malleus": [
+        "Hammer"
+    ],
+    "Incus": [
+        "Amboss"
+    ],
+    "Stapes": [
+        "Steigbügel"
+    ],
+    "Fenestra ovalis": [
+        "ovales Fenster",
+        "Fenster"
+    ],
+    "vestibuli": [
+        "ovales Fenster",
+        "Fenster"
+    ],
+    "Fenestra": [
+        "ovales Fenster",
+        "Fenster"
+    ],
+    "Fenestra rotunda": [
+        "Schneckenfenster",
+        "rundes Fenster"
+    ],
+    "cochleae": [
+        "Schneckenfenster",
+        "rundes Fenster"
+    ],
+    "Otitis media": [
+        "Mittelohrentzündung"
+    ],
+    "Cholesteatom": [
+        "Zwiebelgeschwulst",
+        "Perlgeschwulst"
+    ],
+    "Auris interna": [
+        "Innenohr"
+    ],
+    "Labyrinth": [
+        "Innenohr"
+    ],
+    "Cochlea": [
+        "Hörschnecke"
+    ],
+    "Scala": [
+        "Treppe"
+    ],
+    "Ductus semicircularis(es)": [
+        "Bogengang (Bogengänge)"
+    ],
+    "Vestibulum": [
+        "Eingangsbereich",
+        "Vorhof des Innenohrs"
+    ],
+    "Vestibularapparat": [
+        "Gleichgewichtsorgan"
+    ],
+    "Meatus acusticus internus": [
+        "innerer Gehörgang"
+    ],
+    "Labyrinthitis": [
+        "Innenohrentzündung"
+    ],
+    "Anakusis": [
+        "Hörverlust",
+        "Gehörlosigkeit"
+    ],
+    "Tinnitus": [
+        "Ohrensausen",
+        "Ohrgeräusch"
+    ],
+    "Vertigo": [
+        "Schwindel",
+        "Gleichgewichtsstörung"
+    ],
+    "Presbyakusis": [
+        "Altersschwerhörigkeit"
+    ],
+    "Otalgie": [
+        "Ohrenschmerzen"
+    ],
+    "Otodynie": [
+        "Ohrenschmerzen"
+    ],
+    "Otologe": [
+        "Ohrenarzt"
+    ],
+    "Otologie": [
+        "Ohrenheilkunde",
+        "Fachgebiet für Ohrenkrankheiten"
+    ],
+    "Palatum": [
+        "Gaumen"
+    ],
+    "Palatum durum": [
+        "harter Gaumen"
+    ],
+    "Palatum molle": [
+        "weicher Gaumen",
+        "weich"
+    ],
+    "mollis": [
+        "weicher Gaumen",
+        "weich"
+    ],
+    "Velum palatinum": [
+        "Segel",
+        "Gaumensegel"
+    ],
+    "Velum": [
+        "Segel",
+        "Gaumensegel"
+    ],
+    "Tonsille(n)": [
+        "Mandel(n)"
+    ],
+    "Tonsilla lingualis": [
+        "Zungenmandel"
+    ],
+    "Tonsilla palatina": [
+        "Gaumenmandel"
+    ],
+    "Tonsilla pharyngea": [
+        "Rachenmandel"
+    ],
+    "Tonsilla tubaria": [
+        "Tubenmandel"
+    ],
+    "Tonsillitis": [
+        "Mandelentzündung"
+    ],
+    "Angina tonsillaris": [
+        "Mandelentzündung"
+    ],
+    "Tonsillektomie": [
+        "Gaumenmandelentfernung",
+        "teilweise Gaumenmandelentfernung"
+    ],
+    "Tonsillotomie": [
+        "Gaumenmandelentfernung",
+        "teilweise Gaumenmandelentfernung"
+    ],
+    "Adenotomie": [
+        "Rachenmandelentfernung",
+        "Rachenmandel und"
+    ],
+    "Adenotonsillektomie": [
+        "Rachenmandelentfernung",
+        "Rachenmandel und"
+    ],
+    "Oto–Rhino–Laryngologie (ORL)": [
+        "Hals–Nasen–Ohren–Heilkunde (HNO)"
+    ],
+    "Gastroenterologie": [
+        "& Verdauungssystem"
+    ],
+    "Oris": [
+        "Mund"
+    ],
+    "Stoma": [
+        "Mund",
+        "Öffnung"
+    ],
+    "Cavitas oris": [
+        "Mundhöhle"
+    ],
+    "Stomatitis": [
+        "Mundschleimhautentzündung"
+    ],
+    "Halitosis": [
+        "Mundgeruch"
+    ],
+    "Foetor ex ore": [
+        "Mundgeruch"
+    ],
+    "Labium oris": [
+        "Lippe"
+    ],
+    "Cheilos": [
+        "Lippe"
+    ],
+    "Cheiloschisis": [
+        "Lippenspalte",
+        "Hasenscharte"
+    ],
+    "Cheilosis": [
+        "Lippenentzündung"
+    ],
+    "Cheilitis": [
+        "Lippenentzündung"
+    ],
+    "Uvula": [
+        "Gaumenzäpfchen",
+        "Zäpfchen"
+    ],
+    "Uvula palatina": [
+        "Gaumenzäpfchen",
+        "Zäpfchen"
+    ],
+    "Palatoschisis": [
+        "Gaumenspalte"
+    ],
+    "Palatum fissum": [
+        "Gaumenspalte"
+    ],
+    "Cheilognathopalatoschisis": [
+        "LippenKieferGaumenspalte"
+    ],
+    "Dens": [
+        "Zahn"
+    ],
+    "Dens serotinus": [
+        "Weisheitszahn"
+    ],
+    "Karies": [
+        "Zahnfäule"
+    ],
+    "Dentalgie": [
+        "Zahnschmerzen"
+    ],
+    "Gingiva": [
+        "Zahnfleisch"
+    ],
+    "Gingivitis": [
+        "Zahnfleischentzündung"
+    ],
+    "Glossa": [
+        "Zunge"
+    ],
+    "Lingua": [
+        "Zunge"
+    ],
+    "lingual": [
+        "die Zunge betreffend",
+        "unter der Zunge"
+    ],
+    "sublingual": [
+        "die Zunge betreffend",
+        "unter der Zunge"
+    ],
+    "Frenulum linguae": [
+        "Zungenbändchen"
+    ],
+    "Lingua bifida": [
+        "Zungenspalte",
+        "Spaltzunge"
+    ],
+    "Glossoschisis": [
+        "Zungenspalte",
+        "Spaltzunge"
+    ],
+    "Makroglossie": [
+        "Vergrößerung der Zunge"
+    ],
+    "Mikroglossie": [
+        "Verkleinerung der Zunge"
+    ],
+    "Glossitis": [
+        "Zungenentzündung"
+    ],
+    "Ösophagus": [
+        "Speiseröhrenentzündung",
+        "Speiseröhre"
+    ],
+    "Ösophagitis": [
+        "Speiseröhrenentzündung",
+        "Speiseröhre"
+    ],
+    "Ösophagoskopie": [
+        "Speiseröhrenspiegelung"
+    ],
+    "Ructus": [
+        "Aufstoßen",
+        "Rülpsen",
+        "Bäuerchen"
+    ],
+    "Ruktus": [
+        "Aufstoßen",
+        "Rülpsen",
+        "Bäuerchen"
+    ],
+    "Ruktation": [
+        "Aufstoßen",
+        "Rülpsen",
+        "Bäuerchen"
+    ],
+    "Pyrosis": [
+        "Sodbrennen"
+    ],
+    "Reflux": [
+        "Rückfluss"
+    ],
+    "Gastroösophageale": [
+        "Speiseröhrenentzündung wegen Rückfluss der Magensäure"
+    ],
+    "Gaster": [
+        "Magen"
+    ],
+    "Ventriculus": [
+        "Magen"
+    ],
+    "Fundus ventriculi": [
+        "Magengewölbe"
+    ],
+    "Kardia = cardia ventriculi": [
+        "Mageneingang"
+    ],
+    "Corpus ventriculi": [
+        "Magenkörper"
+    ],
+    "Pylorus": [
+        "Magenausgang",
+        "Magenpförtner"
+    ],
+    "Curvatura gastrica major": [
+        "kleine Magenkurvatur",
+        "große"
+    ],
+    "Peristaltik": [
+        "Bewegung von Hohlorganen"
+    ],
+    "Ulcus ventriculi": [
+        "Magengeschwür"
+    ],
+    "Ulcus duodeni": [
+        "Zwölffingerdarmgeschwür"
+    ],
+    "Gastritis": [
+        "Magenschleimhautentzündung"
+    ],
+    "Gastroparese": [
+        "Magenlähmung",
+        "Magenatonie"
+    ],
+    "Gastroskopie": [
+        "Magenspiegelung"
+    ],
+    "Gastrektomie": [
+        "Magenentfernung"
+    ],
+    "agastrisch": [
+        "ohne Magen"
+    ],
+    "Aerophagie": [
+        "Luftschlucken"
+    ],
+    "Globusgefühl": [
+        "Fremdkörpergefühl"
+    ],
+    "Lien": [
+        "Milz"
+    ],
+    "Splen": [
+        "Milz"
+    ],
+    "Milzruptur": [
+        "Milzriss"
+    ],
+    "Splenomegalie": [
+        "Milzvergrößerung"
+    ],
+    "Splenektomie": [
+        "Milzentfernung"
+    ],
+    "Hepar": [
+        "Leber"
+    ],
+    "Lobus hepatis dexter": [
+        "linker Leberlappen",
+        "rechter"
+    ],
+    "Hepatitis": [
+        "Leberentzündung"
+    ],
+    "Hepatose": [
+        "nicht entzündliche Lebererkrankung",
+        "Leberschädigung"
+    ],
+    "Steatosis hepatis": [
+        "Fettleber",
+        "Leberverfettung"
+    ],
+    "Hepatomegalie": [
+        "Lebervergrößerung"
+    ],
+    "Leberfibrose": [
+        "krankhafter Umbau von Lebergewebe in Bindegewebe"
+    ],
+    "Leberzirrhose": [
+        "Schrumpfleber",
+        "Spätstadium der Leberfibrose"
+    ],
+    "Hepatopathie": [
+        "Leberkrankheit"
+    ],
+    "Leberinsuffizienz": [
+        "Leberversagen"
+    ],
+    "Hepatotoxizität": [
+        "Leberschäden",
+        "Lebervergiftung"
+    ],
+    "hepatotoxisch": [
+        "leberschädigend"
+    ],
+    "Aszites": [
+        "Wasserbauch",
+        "Bauchwassersucht"
+    ],
+    "Tremor": [
+        "Zittern"
+    ],
+    "Galle": [
+        "Gallenflüssigkeit",
+        "Blutfette"
+    ],
+    "Vesica biliaris": [
+        "Gallenblase"
+    ],
+    "Vesica fellea": [
+        "Gallenblase"
+    ],
+    "Cholezystitis": [
+        "Gallenblasenentzündung"
+    ],
+    "Cholezystektomie": [
+        "Gallenblasenentfernung"
+    ],
+    "Cholezystolithiasis": [
+        "Gallenblasensteinleiden"
+    ],
+    "Ductus": [
+        "Samenleiter",
+        "Gang"
+    ],
+    "Canalis": [
+        "Kanal"
+    ],
+    "Ductus hepaticus dexter": [
+        "linker Lebergang",
+        "rechter"
+    ],
+    "Ductus hepaticus communis": [
+        "gemeinsamer Lebergang"
+    ],
+    "Ductus cysticus": [
+        "Gallenblasengang"
+    ],
+    "Ductus choledochus": [
+        "Hauptgallengang"
+    ],
+    "Cholangitis": [
+        "Gallenwegentzündung",
+        "Gallengangentzündung"
+    ],
+    "Cholangiokarzinom": [
+        "Gallengangkrebs"
+    ],
+    "Cholelithiasis": [
+        "Gallensteinleiden"
+    ],
+    "Choledocholithiasis": [
+        "Hauptgallengangsteinleiden"
+    ],
+    "Lithos": [
+        "Stein"
+    ],
+    "Cholelitholyse": [
+        "medikamentöse Auflösung",
+        "Zertrümmerung der Gallensteine"
+    ],
+    "Cholelithotripsie": [
+        "medikamentöse Auflösung",
+        "Zertrümmerung der Gallensteine"
+    ],
+    "Cholestase": [
+        "Gallenstauung"
+    ],
+    "Cholezystographie": [
+        "Röntgenkontrastdarstellung der Gallenblase"
+    ],
+    "Cholangiographie": [
+        "Röntgenkontrastdarstellung der Gallengänge"
+    ],
+    "Bilirubin": [
+        "Gallenfarbstoff"
+    ],
+    "Cholangiolithiasis": [
+        "Gallenwegssteinleiden"
+    ],
+    "Cholelith": [
+        "Gallenstein"
+    ],
+    "Intestinum": [
+        "Darm"
+    ],
+    "Enteron": [
+        "Dünndarm"
+    ],
+    "Intestinum tenue": [
+        "Dünndarm"
+    ],
+    "Duodenum": [
+        "Zwölffingerdarm"
+    ],
+    "Duodenitis": [
+        "Zwölffingerdarmentzündung"
+    ],
+    "Jejunum": [
+        "Leerdarm"
+    ],
+    "Ileum": [
+        "Krummdarm"
+    ],
+    "Colon": [
+        "Dickdarm",
+        "Grimmdarm"
+    ],
+    "Intestinum crassum": [
+        "Dickdarm",
+        "Grimmdarm"
+    ],
+    "Caecum": [
+        "Blinddarm",
+        "Blinddarmentzündung"
+    ],
+    "Zäkum": [
+        "Blinddarm",
+        "Blinddarmentzündung"
+    ],
+    "Typhlitis": [
+        "Blinddarm",
+        "Blinddarmentzündung"
+    ],
+    "Appendix vermiformis": [
+        "Wurmfortsatz des Blinddarms"
+    ],
+    "Appendizitis": [
+        "Wurmfortsatzentzündung",
+        "Wurmfortsatzentfernung"
+    ],
+    "Appendektomie": [
+        "Wurmfortsatzentzündung",
+        "Wurmfortsatzentfernung"
+    ],
+    "vermiformis": [
+        "wurmförmig",
+        "wurmartig"
+    ],
+    "Colon ascendens": [
+        "aufsteigender Dickdarm"
+    ],
+    "Colon transversum": [
+        "querer Dickdarm"
+    ],
+    "Colon descendens": [
+        "absteigender Dickdarm"
+    ],
+    "Colon sigmoideum": [
+        "sförmiger Dickdarm"
+    ],
+    "Sigma": [
+        "sförmiger Dickdarm"
+    ],
+    "Kolonkarzinom": [
+        "Dickdarmkrebs"
+    ],
+    "Megakolon": [
+        "Dickdarmerweiterung"
+    ],
+    "Colon irritabile": [
+        "Reizdarmsyndrom"
+    ],
+    "Colitis spastica": [
+        "Reizdarmsyndrom"
+    ],
+    "Morbus Crohn": [
+        "chronisch entzündliche Darmerkrankung (CED)"
+    ],
+    "Colitis ulcerosa": [
+        "chronisch entzündliche Darmerkrankung (CED)"
+    ],
+    "Koloskopie": [
+        "Dickdarmspiegelung"
+    ],
+    "Rektum": [
+        "Mastdarm",
+        "Enddarm"
+    ],
+    "Proktos": [
+        "Mastdarm",
+        "Enddarm"
+    ],
+    "Proktitis": [
+        "Mastdarmentzündung"
+    ],
+    "Rektumprolaps": [
+        "Mastdarmvorfall"
+    ],
+    "Rektumkarzinom": [
+        "Mastdarmkrebs"
+    ],
+    "kolorektales Karzinom": [
+        "Dickdarm und Mastdarmkrebs"
+    ],
+    "Anus": [
+        "After",
+        "Darmausgang"
+    ],
+    "Proktoskopie": [
+        "Analkanalspiegelung"
+    ],
+    "Sphinkter": [
+        "Ringmuskel",
+        "Schließmuskel"
+    ],
+    "Analfistel": [
+        "unnatürlicher Gang neben dem After"
+    ],
+    "Analfissur": [
+        "Afterriss",
+        "Schleimhauteinriss des Afters"
+    ],
+    "Hämorrhoiden": [
+        "Venenerweiterungen im Afterbereich"
+    ],
+    "Analprolaps": [
+        "Vorfall der Haut des Afters"
+    ],
+    "Crena analis": [
+        "Gesäßspalte",
+        "Afterspalte"
+    ],
+    "Rima ani": [
+        "Gesäßspalte",
+        "Afterspalte"
+    ],
+    "Gesäßbacken": [
+        "Nates",
+        "Clunes"
+    ],
+    "Gesäßhälften": [
+        "Nates",
+        "Clunes"
+    ],
+    "Gesäße": [
+        "Nates",
+        "Clunes"
+    ],
+    "Defäkation": [
+        "Darmentleerung",
+        "Stuhlgang",
+        "Stuhlausscheidung"
+    ],
+    "Faeces": [
+        "Stuhl",
+        "Kot"
+    ],
+    "Fäzes": [
+        "Stuhl",
+        "Kot"
+    ],
+    "Meläna": [
+        "Teerstuhl"
+    ],
+    "Hämatochezie": [
+        "Blutstuhl"
+    ],
+    "Enterostoma": [
+        "künstlicher Darmausgang"
+    ],
+    "Ileostoma": [
+        "künstlicher Darmausgang"
+    ],
+    "Anus praeter": [
+        "künstlicher Darmausgang"
+    ],
+    "Peritoneum": [
+        "Bauchfell"
+    ],
+    "Peritonitis": [
+        "Bauchfellentzündung"
+    ],
+    "Omentum minus": [
+        "großes Bauchnetz",
+        "Darmnetz",
+        "kleines"
+    ],
+    "majus": [
+        "großes Bauchnetz",
+        "Darmnetz",
+        "kleines"
+    ],
+    "Mesenterium": [
+        "Dünndarmgekröse",
+        "Gekröse"
+    ],
+    "Adipositas": [
+        "Fett",
+        "Fettsucht",
+        "fettleibig",
+        "fettsüchtig",
+        "Fettleibigkeit"
+    ],
+    "adipös": [
+        "Fett",
+        "Fettsucht",
+        "fettleibig",
+        "fettsüchtig",
+        "Fettleibigkeit"
+    ],
+    "Lipos": [
+        "Fett",
+        "Fettsucht",
+        "fettleibig",
+        "fettsüchtig",
+        "Fettleibigkeit"
+    ],
+    "Lipid": [
+        "Fett",
+        "Fettsucht",
+        "fettleibig",
+        "fettsüchtig",
+        "Fettleibigkeit"
+    ],
+    "Lipom": [
+        "gutartige Fettgeschwulst"
+    ],
+    "Digestion": [
+        "Verdauung"
+    ],
+    "Metabolismus": [
+        "Stoffwechsel"
+    ],
+    "Anabolismus": [
+        "Aufbaustoffwechsel"
+    ],
+    "Katabolismus": [
+        "Abbaustoffwechsel"
+    ],
+    "Absorption": [
+        "Nährstoffaufnahme"
+    ],
+    "Resorption": [
+        "Nährstoffaufnahme"
+    ],
+    "Malabsorption": [
+        "gestörte Nährstoffaufnahme"
+    ],
+    "Gastroenteritis": [
+        "MagenDarmGrippe",
+        "MagenDarmEntzündung"
+    ],
+    "Enteritis": [
+        "Dünndarmentzündung"
+    ],
+    "Enterokolitis": [
+        "Dickdarmentzündung",
+        "Dünndarm und Dickdarmentzündung"
+    ],
+    "Kolitis": [
+        "Dickdarmentzündung",
+        "Dünndarm und Dickdarmentzündung"
+    ],
+    "Colitis": [
+        "Dickdarmentzündung",
+        "Dünndarm und Dickdarmentzündung"
+    ],
+    "Zöliakie": [
+        "Glutenunverträglichkeit"
+    ],
+    "Dysenterie": [
+        "bakterielle Darmentzündung",
+        "Ruhr"
+    ],
+    "Amöbiasis": [
+        "Amöbenruhr"
+    ],
+    "Fistel": [
+        "unnatürliche Verbindung zwischen Hohlorganen"
+    ],
+    "Anastomose": [
+        "künstliche Verbindung zwischen Hohlorganen"
+    ],
+    "Lumen": [
+        "Hohlraum"
+    ],
+    "Gastrektasie": [
+        "Magenerweiterung"
+    ],
+    "Nausea": [
+        "Übelkeit",
+        "Brechreiz"
+    ],
+    "Vomitus": [
+        "Erbrechen",
+        "Kotzen",
+        "übermäßiges Erbrechen"
+    ],
+    "Emesis": [
+        "Erbrechen",
+        "Kotzen",
+        "übermäßiges Erbrechen"
+    ],
+    "Hyperemesis": [
+        "Erbrechen",
+        "Kotzen",
+        "übermäßiges Erbrechen"
+    ],
+    "Hämatemesis": [
+        "Bluterbrechen",
+        "Kaffeesatzerbrechen"
+    ],
+    "Singultus": [
+        "Schluckauf"
+    ],
+    "Anorexie": [
+        "Appetitlosigkeit",
+        "Appetitverlust"
+    ],
+    "Inappetenz": [
+        "Appetitlosigkeit",
+        "Appetitverlust"
+    ],
+    "Anorexia nervosa": [
+        "Magersucht"
+    ],
+    "Diarrhoe": [
+        "Durchfall"
+    ],
+    "Steatorrhoe": [
+        "Fettstuhl"
+    ],
+    "Obstipation": [
+        "Verstopfung"
+    ],
+    "Flatus": [
+        "Wind"
+    ],
+    "Flatulenz": [
+        "Blähung"
+    ],
+    "Meteorismus": [
+        "Blähungen",
+        "Blähsucht"
+    ],
+    "Tenesmus ani": [
+        "Harndrang",
+        "schmerzhafter Stuhldrang"
+    ],
+    "vesicae": [
+        "Harndrang",
+        "schmerzhafter Stuhldrang"
+    ],
+    "Polydipsie": [
+        "Trinkzwang",
+        "gesteigerter Durst"
+    ],
+    "Polyphagie": [
+        "gesteigerter Hunger",
+        "Gefräßigkeit",
+        "Fresssucht"
+    ],
+    "Hyperphagie": [
+        "gesteigerter Hunger",
+        "Gefräßigkeit",
+        "Fresssucht"
+    ],
+    "Bulimie": [
+        "Ess–Brech–Sucht"
+    ],
+    "Bulimia nervosa": [
+        "Ess–Brech–Sucht"
+    ],
+    "Dysphagie": [
+        "Schluckstörung"
+    ],
+    "Dyskatabrosis": [
+        "Schluckstörung"
+    ],
+    "Dyspepsie": [
+        "Verdauungsstörung"
+    ],
+    "Odynophagie": [
+        "schmerzhaftes Schlucken"
+    ],
+    "Ösophagodynie": [
+        "schmerzhaftes Schlucken"
+    ],
+    "Ageusie": [
+        "Geschmacksverlust"
+    ],
+    "Laparoskopie": [
+        "Bauchspiegelung"
+    ],
+    "Laparotomie": [
+        "operative Eröffnung der Bauchhöhle"
+    ],
+    "Abdomensonographie": [
+        "Ultraschalluntersuchung des Bauches"
+    ],
+    "Cutis": [
+        "Haut"
+    ],
+    "Derma": [
+        "Haut"
+    ],
+    "Dermatitis": [
+        "Hautentzündung"
+    ],
+    "Dermis": [
+        "Lederhaut"
+    ],
+    "Epidermis": [
+        "Oberhaut"
+    ],
+    "perkutan": [
+        "durch die Haut"
+    ],
+    "transdermal": [
+        "durch die Haut"
+    ],
+    "intrakutan": [
+        "in der Haut",
+        "in die"
+    ],
+    "subkutan": [
+        "unter der Haut",
+        "unter die Haut"
+    ],
+    "subkutane Injektion": [
+        "Einspritzung in das Unterhautfettgewebe"
+    ],
+    "intramuskulär": [
+        "in den Muskel"
+    ],
+    "i.m": [
+        "in den Muskel"
+    ],
+    "intranasal": [
+        "das Auge",
+        "durch die Nase"
+    ],
+    "intraocular": [
+        "das Auge",
+        "durch die Nase"
+    ],
+    "per os": [
+        "durch den Mund"
+    ],
+    "oral": [
+        "durch den Mund"
+    ],
+    "peroral": [
+        "durch den Mund"
+    ],
+    "parenteral": [
+        "orale Nahrungsaufnahme",
+        "Nahrungsaufnahme als Infusion"
+    ],
+    "enteral": [
+        "orale Nahrungsaufnahme",
+        "Nahrungsaufnahme als Infusion"
+    ],
+    "Tunica mucosa": [
+        "Schleimhaut"
+    ],
+    "Textus connectivus": [
+        "Bindegewebe"
+    ],
+    "Dermatose": [
+        "Hautkrankheit"
+    ],
+    "Hämatom": [
+        "Bluterguss"
+    ],
+    "Hämangiom": [
+        "gutartige Gefäßgeschwulst",
+        "Blutschwamm"
+    ],
+    "Angiom": [
+        "gutartige Gefäßgeschwulst",
+        "Blutschwamm"
+    ],
+    "Nävus": [
+        "`Leberfleck`",
+        "Muttermal"
+    ],
+    "Nävus flammeus": [
+        "Feuermal"
+    ],
+    "vinosus": [
+        "Feuermal"
+    ],
+    "Melanom": [
+        "schwarzer Hautkrebs"
+    ],
+    "Spinaliom": [
+        "heller Hautkrebs"
+    ],
+    "Basaliom": [
+        "weißer Hautkrebs"
+    ],
+    "Vitiligo": [
+        "Weißfleckenkrankheit"
+    ],
+    "Albinismus": [
+        "Weißsucht",
+        "angeborener Hautfarbstoffmangel"
+    ],
+    "Dermatitis solaris": [
+        "Sonnenbrand"
+    ],
+    "Psoriasis vulgaris": [
+        "Schuppenflechte"
+    ],
+    "Ekzem": [
+        "Juckflechte",
+        "juckender Hautausschlag"
+    ],
+    "Heliosis": [
+        "Sonnenstich",
+        "Hitzschlag"
+    ],
+    "Insolation": [
+        "Sonnenstich",
+        "Hitzschlag"
+    ],
+    "Tinea pedis": [
+        "Fußpilz"
+    ],
+    "Genital": [
+        "Genital",
+        "Nagel pilz"
+    ],
+    "Onycho mykose": [
+        "Genital",
+        "Nagel pilz"
+    ],
+    "Pruritus": [
+        "Juckreiz",
+        "Hautjucken"
+    ],
+    "Immunität": [
+        "Unempfindlichkeit",
+        "Abwehr"
+    ],
+    "Allergie": [
+        "Überempfindlichkeit"
+    ],
+    "anaphylaktischer Schock": [
+        "schweres allergisches Kreislaufversagen"
+    ],
+    "Urtikaria": [
+        "Nesselsucht"
+    ],
+    "Ikterus": [
+        "Gelbsucht"
+    ],
+    "Exanthem": [
+        "Hautausschlag"
+    ],
+    "Komedo(nen)": [
+        "Mitesser"
+    ],
+    "Atherom": [
+        "Grützbeutel"
+    ],
+    "Läsion": [
+        "Verletzung",
+        "Schädigung"
+    ],
+    "Erosion": [
+        "Hautdefekt",
+        "Hautabschürfung"
+    ],
+    "Exkoriation": [
+        "Hautdefekt",
+        "Hautabschürfung"
+    ],
+    "Pilus(Pili)": [
+        "Haar(e)"
+    ],
+    "Alopezie": [
+        "Haarausfall"
+    ],
+    "Squama": [
+        "Schuppe",
+        "Hautschuppung"
+    ],
+    "Crusta": [
+        "Schorf",
+        "Kruste",
+        "Borke"
+    ],
+    "Pustel": [
+        "Pickel",
+        "Eiterbläschen"
+    ],
+    "Erysipel": [
+        "Wundrose"
+    ],
+    "Erysipeloid": [
+        "Rotlauf"
+    ],
+    "Zellulitis": [
+        "diffuse eitrige Entzündung des",
+        "Entzündung des Zellgewebes"
+    ],
+    "Phlegmone": [
+        "diffuse eitrige Entzündung des",
+        "Entzündung des Zellgewebes"
+    ],
+    "Cellulite": [
+        "dellenförmige Hautoberfläche"
+    ],
+    "Peau d´ orange": [
+        "Orangenhaut"
+    ],
+    "Verruca(e)": [
+        "Warze(n)"
+    ],
+    "Verruca plantaris": [
+        "Dornwarze",
+        "Fußsohlenwarze"
+    ],
+    "Verruca vulgaris": [
+        "Hautwarze"
+    ],
+    "Condylomata acuminata": [
+        "Feigwarzen",
+        "Genitalwarzen"
+    ],
+    "Dermatologin": [
+        "Hautärztin"
+    ],
+    "Dermatologie": [
+        "Lehre von Hauterkrankungen"
+    ],
+    "Endokrinologie & Drüse": [
+        "Hormonalsystem"
+    ],
+    "Endokrinologie": [
+        "Hormonlehre"
+    ],
+    "Glandula(e)": [
+        "Drüse(n)"
+    ],
+    "Adenitis": [
+        "Drüsenentzündung"
+    ],
+    "Thalamus": [
+        "Sehhügel"
+    ],
+    "Glandula pituitaria": [
+        "Hirnanhangsdrüse"
+    ],
+    "Hypophyse": [
+        "Hirnanhangsdrüse"
+    ],
+    "Glandula pinealis": [
+        "Zirbeldrüse"
+    ],
+    "Glandula thyreoidea": [
+        "Schilddrüse"
+    ],
+    "Hyperthyreose": [
+        "Schilddrüsenüberfunktion"
+    ],
+    "Hypothyreose": [
+        "Schilddrüsenunterfunktion"
+    ],
+    "Euthyreose": [
+        "normale Schilddrüsenfunktion"
+    ],
+    "Struma": [
+        "Vergrößerung der Schilddrüse",
+        "Kropf"
+    ],
+    "Thyreoiditis": [
+        "Schilddrüsenentzündung"
+    ],
+    "Thyreoidektomie": [
+        "Schilddrüsenentfernung"
+    ],
+    "Glandula parathyreoidea": [
+        "Nebenschilddrüse"
+    ],
+    "Hyperparathyreoidismus": [
+        "Nebenschilddrüsenüberfunktion"
+    ],
+    "Hypoparathyreoidismus": [
+        "Nebenschilddrüsenunterfunktion"
+    ],
+    "Thymus": [
+        "Bries"
+    ],
+    "Glandula suprarenalis": [
+        "Nebennierendrüse"
+    ],
+    "adrenalis": [
+        "Nebennierendrüse"
+    ],
+    "Cortex glandulae suprarenalis": [
+        "Nebennierenrinde"
+    ],
+    "Adrenalektomie": [
+        "Nebennierenentfernung"
+    ],
+    "Saliva": [
+        "Speichel"
+    ],
+    "Sialon": [
+        "Speichel"
+    ],
+    "Salivation": [
+        "Speichelfluss"
+    ],
+    "Sialolithiasis": [
+        "Speichelsteinleiden"
+    ],
+    "Sialoadenitis": [
+        "Speicheldrüsenentzündung"
+    ],
+    "Glandula salivaria": [
+        "Speicheldrüse(n)"
+    ],
+    "1. Parotis": [
+        "Ohrspeicheldrüse"
+    ],
+    "Glandula parotidea": [
+        "Ohrspeicheldrüse"
+    ],
+    "Parotitis": [
+        "Ohrspeicheldrüsenentzündung",
+        "Ziegenpeter"
+    ],
+    "Mumps Parotitis": [
+        "Ohrspeicheldrüsenentzündung",
+        "Ziegenpeter"
+    ],
+    "2. Glandula submandibularis": [
+        "Unterkieferspeicheldrüse"
+    ],
+    "3. Glandula sublingualis": [
+        "Unterzungenspeicheldrüse"
+    ],
+    "4. Pankreas": [
+        "Bauchspeicheldrüse"
+    ],
+    "Pankreatitis": [
+        "Bauchspeicheldrüsenentzündung"
+    ],
+    "Diabetes mellitus": [
+        "Zuckerkrankheit"
+    ],
+    "Pankreaskarzinom": [
+        "Bauchspeicheldrüsenkrebs"
+    ],
+    "Gigantismus": [
+        "Riesenwuchs"
+    ],
+    "Akromegalie": [
+        "Vergrößerung der Körperendteile"
+    ],
+    "Acrum": [
+        "Extremitätenende(n)",
+        "stammferne Körperspitze(n)"
+    ],
+    "Akre(Akren)": [
+        "Extremitätenende(n)",
+        "stammferne Körperspitze(n)"
+    ],
+    "Hirsutismus": [
+        "vermehrte Behaarung"
+    ],
+    "Rachitis": [
+        "VitaminDMangelKrankheit"
+    ],
+    "Skorbut": [
+        "VitaminCMangelKrankheit"
+    ],
+    "Computertomographie": [
+        "computergestütztes Schichtaufnahmeverfahren"
+    ],
+    "MRT": [
+        "computergestütztes",
+        "Kernspintomographie"
+    ],
+    "Magnetresonanztomographie": [
+        "computergestütztes",
+        "Kernspintomographie"
+    ],
+    "Schichtaufnahmeverfahren": [
+        "mit Magnetresonanz"
+    ],
+    "Sonographie": [
+        "Ultraschalluntersuchung"
+    ],
+    "Duplexsonographie": [
+        "farbkodierte Ultraschalluntersuchung"
+    ],
+    "Szintigraphie": [
+        "bildliche Darstellung mit Hilfe von radioaktiven Substanzen"
+    ],
+    "Nephrologie & Harnsystem": [
+        "& männliches Genitalsystem"
+    ],
+    "Andrologie": [
+        "Männerheilkunde",
+        "& männliches Genitalsystem"
+    ],
+    "Ren": [
+        "Niere"
+    ],
+    "Nephros": [
+        "Niere"
+    ],
+    "Nephritis": [
+        "Nierenentzündung"
+    ],
+    "Nephrektomie": [
+        "Nierenentfernung"
+    ],
+    "Nephrolithiasis": [
+        "Harnsteinleiden",
+        "Nierensteinleiden"
+    ],
+    "Urolithiasis": [
+        "Harnsteinleiden",
+        "Nierensteinleiden"
+    ],
+    "Ureterolithiasis": [
+        "Harnleitersteinleiden"
+    ],
+    "Hydronephrose": [
+        "Harnstauungsniere",
+        "Wassersackniere"
+    ],
+    "Nephroptose": [
+        "Senkniere",
+        "Wanderniere"
+    ],
+    "nephrotoxisch": [
+        "nierenschädigend",
+        "nierengiftig"
+    ],
+    "Nephropathie": [
+        "Nierenerkrankung"
+    ],
+    "Glomerulus": [
+        "kleines Knäuel",
+        "Knäulchen"
+    ],
+    "Pyelon": [
+        "Nierenbecken"
+    ],
+    "Pelvis renalis": [
+        "Nierenbecken"
+    ],
+    "Pyelonephritis": [
+        "Nierenbeckenentzündung"
+    ],
+    "Pyelitis": [
+        "Nierenbeckenentzündung"
+    ],
+    "Ureter": [
+        "Harnleiter",
+        "Harnleitererweiterung"
+    ],
+    "Hydroureter": [
+        "Harnleiter",
+        "Harnleitererweiterung"
+    ],
+    "Ureterstenose": [
+        "Harnleiterverengung"
+    ],
+    "Megaureter": [
+        "Harnleitervergrößerung"
+    ],
+    "Vesica urinaria": [
+        "Harnblase"
+    ],
+    "Harninkontinenz": [
+        "ungewollter Harnabgang",
+        "Blasenschwäche"
+    ],
+    "Urgeinkontinenz": [
+        "ungewollter Harnabgang bei starkem Harndrang"
+    ],
+    "Stressinkontinenz": [
+        "ungewollter Harnabgang unter Belastung"
+    ],
+    "Zystitis": [
+        "Harnblasenentzündung"
+    ],
+    "Zystoskopie": [
+        "Blasenspiegelung"
+    ],
+    "Zystektomie": [
+        "Blasenentfernung"
+    ],
+    "Urethra": [
+        "Harnröhre",
+        "Harnsamenröhre"
+    ],
+    "Urethritis": [
+        "Harnröhrenentzündung",
+        "Harnsamenröhrenentzündung"
+    ],
+    "Urethrastriktur": [
+        "Harnröhrenverengung"
+    ],
+    "Urethroskopie": [
+        "Harnröhrenspiegelung"
+    ],
+    "Miktion": [
+        "Blasenentleerung",
+        "Wasserlassen",
+        "Harnlassen"
+    ],
+    "Miktio": [
+        "Blasenentleerung",
+        "Wasserlassen",
+        "Harnlassen"
+    ],
+    "Urin": [
+        "Harn"
+    ],
+    "Hämaturie": [
+        "Blut im Harn"
+    ],
+    "Pyurie": [
+        "Eiterharn"
+    ],
+    "Bakteriurie": [
+        "Bakterien im Urin"
+    ],
+    "Spermaturie": [
+        "Spermen im Urin"
+    ],
+    "Proteinurie": [
+        "Eiweiß im Urin"
+    ],
+    "Glukosurie": [
+        "Zucker im Urin",
+        "Urinzucker"
+    ],
+    "Dysurie": [
+        "schmerzhaftes Wasserlassen"
+    ],
+    "Algurie": [
+        "schmerzhaftes Wasserlassen"
+    ],
+    "Strangurie": [
+        "Harnzwang"
+    ],
+    "Nykturie": [
+        "nächtliches Wasserlassen"
+    ],
+    "Pollakisurie": [
+        "häufiges Wasserlassen"
+    ],
+    "Polyurie": [
+        "vermehrte Harnmenge"
+    ],
+    "Oligurie": [
+        "verminderte Harnmenge",
+        "fehlendes Wasserlassen"
+    ],
+    "Anurie": [
+        "verminderte Harnmenge",
+        "fehlendes Wasserlassen"
+    ],
+    "Retention": [
+        "Züruckhaltung"
+    ],
+    "Residualharn": [
+        "Restharn"
+    ],
+    "Diurese": [
+        "Harnausscheidung"
+    ],
+    "Enuresis nocturna": [
+        "Einnässen",
+        "nachts",
+        "Bettnässen"
+    ],
+    "nocturnus": [
+        "Einnässen",
+        "nachts",
+        "Bettnässen"
+    ],
+    "Urosepsis": [
+        "Nierenvergiftung"
+    ],
+    "Urea": [
+        "Harnstoff"
+    ],
+    "Carbamid": [
+        "Harnstoff"
+    ],
+    "Urämie": [
+        "Harnvergiftung"
+    ],
+    "Hyperurikämie": [
+        "erhöhter Harnsäurespiegel im Blut"
+    ],
+    "Niereninsuffizienz": [
+        "Nierenfunktionsstörung",
+        "Nierenversagen"
+    ],
+    "Nephrologe": [
+        "Facharzt für Nierenerkrankungen"
+    ],
+    "Nephrologie": [
+        "Lehre von den Nierenerkrankungen"
+    ],
+    "Orchis": [
+        "Hoden"
+    ],
+    "Testis": [
+        "Hoden"
+    ],
+    "Didymus": [
+        "Hoden"
+    ],
+    "Orchitis": [
+        "Hodenentzündung"
+    ],
+    "Didymitis": [
+        "Hodenentzündung"
+    ],
+    "Hodentorsion": [
+        "Hodenverdrehung"
+    ],
+    "Orchiektomie": [
+        "Hodenentfernung"
+    ],
+    "Kryptorchismus": [
+        "Hodenhochstand"
+    ],
+    "Orchidopexie": [
+        "Hodenbefestigung",
+        "Fixierung des Hodens"
+    ],
+    "Anorchie": [
+        "angeborenes Fehlen der Hoden"
+    ],
+    "Seminom": [
+        "bösartige Hodengeschwulst"
+    ],
+    "Epididymis": [
+        "Nebenhoden"
+    ],
+    "Epididymitis": [
+        "Nebenhodenentzündung"
+    ],
+    "Epididymektomie": [
+        "Nebenhodenentfernung"
+    ],
+    "Skrotum": [
+        "Hodensack"
+    ],
+    "Glandula prostatica": [
+        "Vorsteherdrüse"
+    ],
+    "Prostata": [
+        "Vorsteherdrüse"
+    ],
+    "Prostatitis": [
+        "Vorsteherdrüsenentzündung"
+    ],
+    "Prostatakarzinom": [
+        "Vorsteherdrüsenkrebs"
+    ],
+    "Vesicula seminalis": [
+        "Samenbläschen",
+        "Bläschendrüse"
+    ],
+    "Colliculus seminalis": [
+        "Samenhügel"
+    ],
+    "Vas deferens": [
+        "Samenleiter"
+    ],
+    "Ductus ejaculatorius": [
+        "Spritzkanal"
+    ],
+    "Sperma": [
+        "Samen",
+        "Samenflüssigkeit"
+    ],
+    "Spermium": [
+        "reife männliche Keimzelle(n)",
+        "Samenzelle(n)",
+        "Samenfaden"
+    ],
+    "Spermien": [
+        "Samenfäden"
+    ],
+    "Penis Phallus": [
+        "männliches Glied"
+    ],
+    "Glans penis": [
+        "Eichel"
+    ],
+    "Balanitis": [
+        "Eichelentzündung"
+    ],
+    "Präputium": [
+        "Vorhaut"
+    ],
+    "Phimose": [
+        "Vorhautverengung"
+    ],
+    "Posthitis": [
+        "Vorhautentzündung"
+    ],
+    "Zirkumzision": [
+        "Beschneidung der Vorhaut"
+    ],
+    "Erektion": [
+        "Aufrichtung",
+        "Anschwellung von Penis oder Klitoris"
+    ],
+    "Ejakulation": [
+        "Samenerguss"
+    ],
+    "Ejaculatio praecox": [
+        "vorzeitiger",
+        "verzögerter Samenerguss"
+    ],
+    "retarda": [
+        "vorzeitiger",
+        "verzögerter Samenerguss"
+    ],
+    "Priapismus": [
+        "schmerzhafte Dauererektion"
+    ],
+    "Impotenz": [
+        "Unfähigkeit",
+        "Unvermögen"
+    ],
+    "Kastration": [
+        "Entfernung der Keimdrüsen"
+    ],
+    "Gonaden": [
+        "Geschlechtsdrüsen",
+        "Hoden + Eierstock",
+        "Keimdrüsen"
+    ],
+    "Inzisur Incisura": [
+        "Einbuchtung",
+        "Einschnitt"
+    ],
+    "Inzision": [
+        "einschneiden",
+        "Einschnitt",
+        "operativer Schnitt"
+    ],
+    "Incisio": [
+        "einschneiden",
+        "Einschnitt",
+        "operativer Schnitt"
+    ],
+    "inzidieren": [
+        "einschneiden",
+        "Einschnitt",
+        "operativer Schnitt"
+    ],
+    "Exzision": [
+        "Ausschneidung",
+        "Entfernung",
+        "herausschneiden"
+    ],
+    "exzidieren": [
+        "Ausschneidung",
+        "Entfernung",
+        "herausschneiden"
+    ],
+    "Resektion": [
+        "teilweise entfernen",
+        "operative Teilentfernung"
+    ],
+    "resezieren": [
+        "teilweise entfernen",
+        "operative Teilentfernung"
+    ],
+    "Exstirpation": [
+        "operative Vollentfernung"
+    ],
+    "Extraktion": [
+        "Herausziehen"
+    ],
+    "Ablatio": [
+        "Abtragung",
+        "Entfernung",
+        "Abtrennung",
+        "Ablösung"
+    ],
+    "Histo": [
+        "Gewebe"
+    ],
+    "Biopsie": [
+        "Gewebeprobenentnahme",
+        "Gewebeentnahme"
+    ],
+    "Exzisionsbiopsie": [
+        "vollständige Entnahme der Gewebeveränderung"
+    ],
+    "Entfernung eines": [
+        "Teils der Gewebeveränderung"
+    ],
+    "Intubation": [
+        "Ableitung",
+        "Einführung eines Rohres"
+    ],
+    "Drainage": [
+        "Ableitung",
+        "Einführung eines Rohres"
+    ],
+    "Hernie": [
+        "Bruch Eingeweidebruch",
+        "Weichteilbruch"
+    ],
+    "Hiatushernie": [
+        "Zwerchfellbruch"
+    ],
+    "Hernia": [
+        "Zwerchfellbruch"
+    ],
+    "Hernia femoralis": [
+        "Schenkelbruch"
+    ],
+    "Hernia inguinalis": [
+        "Leistenbruch"
+    ],
+    "Hernia umbilicalis": [
+        "Nabelbruch"
+    ],
+    "Narbenhernie": [
+        "Narbenbruch"
+    ],
+    "Varix": [
+        "Venenknoten)",
+        "Krampfader (Krampfadern"
+    ],
+    "Varize(Varizen)": [
+        "Venenknoten)",
+        "Krampfader (Krampfadern"
+    ],
+    "Varikosis": [
+        "Krampfadern",
+        "Krampfaderleiden"
+    ],
+    "Varikose": [
+        "Krampfadern",
+        "Krampfaderleiden"
+    ],
+    "Varikozele": [
+        "Krampfaderbruch",
+        "Hodenkrampfader"
+    ],
+    "Hydrozele": [
+        "Wasserbruch"
+    ],
+    "Hydrozele testis": [
+        "Flüssigkeitsansammlung im Hodensack",
+        "Hodenwasserbruch"
+    ],
+    "Hydrozele funiculi": [
+        "Flüssigkeitsansammlung im Samenstrang"
+    ],
+    "Inkarzeration": [
+        "Einklemmung einer Hernie",
+        "eingeklemmt"
+    ],
+    "inkarzeriert": [
+        "Einklemmung einer Hernie",
+        "eingeklemmt"
+    ],
+    "Darmverdrehung": [
+        "Verdrehung des sförmigen",
+        "Darmverschlingung"
+    ],
+    "Haustrum(en)": [
+        "Ausbuchtung(en) der Dickdarmwand"
+    ],
+    "Polyp": [
+        "zahlreiche Schleimhautvorwölbungen",
+        "Schleimhautvorwölbung"
+    ],
+    "Polyposis": [
+        "zahlreiche Schleimhautvorwölbungen",
+        "Schleimhautvorwölbung"
+    ],
+    "Polypose": [
+        "zahlreiche Schleimhautvorwölbungen",
+        "Schleimhautvorwölbung"
+    ],
+    "Invagination": [
+        "Darmeinstülpung"
+    ],
+    "Intussuszeption": [
+        "Darmeinstülpung"
+    ],
+    "Divertikel": [
+        "Darmaussackung",
+        "Darmausstülpung"
+    ],
+    "Diverticulum": [
+        "Darmaussackung",
+        "Darmausstülpung"
+    ],
+    "Divertikulose": [
+        "Darmaussackungen",
+        "zahlreiche Darmausstülpungen"
+    ],
+    "Ileus": [
+        "Darmverschluss"
+    ],
+    "mechanischer Ileus": [
+        "Darmverschluss"
+    ],
+    "paralytischer Ileus": [
+        "Darmstillstand",
+        "Darmlähmung"
+    ],
+    "Adhäsion": [
+        "Verwachsung",
+        "Verklebung"
+    ],
+    "Prolaps": [
+        "Vorfall"
+    ],
+    "Amputation": [
+        "Einpflanzung",
+        "Entfernung",
+        "Abtrennung"
+    ],
+    "Implantation": [
+        "Einpflanzung",
+        "Entfernung",
+        "Abtrennung"
+    ],
+    "Nekrose": [
+        "lokaler Gewebetod",
+        "örtlicher"
+    ],
+    "Gangrän": [
+        "Gewebenekrose",
+        "Wundbrand"
+    ],
+    "Ulcus": [
+        "Geschwür(e)"
+    ],
+    "Ulkus(Ulcera)": [
+        "Geschwür(e)"
+    ],
+    "Ulcus cruris": [
+        "Unterschenkelgeschwür"
+    ],
+    "Dekubitus": [
+        "Wundliegegeschwür",
+        "Druckgeschwür"
+    ],
+    "Clavus": [
+        "Hornauge",
+        "Hühnerauge"
+    ],
+    "Callus": [
+        "Hornschwiele"
+    ],
+    "Dehydration": [
+        "ausgetrocknet",
+        "Austrocknung"
+    ],
+    "Exsikkose": [
+        "ausgetrocknet",
+        "Austrocknung"
+    ],
+    "exsikkiert": [
+        "ausgetrocknet",
+        "Austrocknung"
+    ],
+    "Kachexie": [
+        "starke Abmagerung",
+        "Auszehrung"
+    ],
+    "Ödem": [
+        "Wassersucht",
+        "Wasseransammlung",
+        "Wassereinlagerung"
+    ],
+    "Pus": [
+        "eitrig",
+        "Eiter"
+    ],
+    "Pyon": [
+        "eitrig",
+        "Eiter"
+    ],
+    "Abszess": [
+        "abgekapselte Eiteransammlung"
+    ],
+    "Empyema": [
+        "Eiteransammlung in einer Körperhöhle"
+    ],
+    "Empyem": [
+        "Eiteransammlung in einer Körperhöhle"
+    ],
+    "Zyste": [
+        "gekapselter flüssigkeitsgefüllter Hohlraum im Gewebe"
+    ],
+    "Sinus pilonidalis": [
+        "Haarnestzyste",
+        "Steißbeinfistel"
+    ],
+    "Bulla": [
+        "Blase",
+        "Hautblase"
+    ],
+    "Cutis bulla": [
+        "Blase",
+        "Hautblase"
+    ],
+    "Vesicula": [
+        "Bläschen",
+        "bläschenartig",
+        "bläschenförmig"
+    ],
+    "vesikulär": [
+        "Bläschen",
+        "bläschenartig",
+        "bläschenförmig"
+    ],
+    "Agonie": [
+        "Todeskampf"
+    ],
+    "Vulnus": [
+        "Wunde"
+    ],
+    "Erythem": [
+        "Hautrötung"
+    ],
+    "Hyperämie": [
+        "Mehrdurchblutung"
+    ],
+    "Sekret(e)": [
+        "Absonderung(en)"
+    ],
+    "Trepanation": [
+        "operative Eröffnung der Schädelhöhle"
+    ],
+    "Kraniotomie": [
+        "operative Eröffnung des Schädels"
+    ],
+    "benigner": [
+        "Schwellung",
+        "bösartige Geschwulst",
+        "gutartige",
+        "Verdickung"
+    ],
+    "maligner Tumor": [
+        "Schwellung",
+        "bösartige Geschwulst",
+        "gutartige",
+        "Verdickung"
+    ],
+    "benigne": [
+        "gutartig",
+        "bösartig"
+    ],
+    "maligne": [
+        "gutartig",
+        "bösartig"
+    ],
+    "Karzinom": [
+        "bösartige Geschwulst des Epithelgewebes"
+    ],
+    "Sarkom": [
+        "bösartige Geschwulst des Bindegewebes"
+    ],
+    "karzinogen": [
+        "krebserzeugend",
+        "krebserregend"
+    ],
+    "kanzerogen": [
+        "krebserzeugend",
+        "krebserregend"
+    ],
+    "Pathologie": [
+        "Krankheitslehre",
+        "krankhaft"
+    ],
+    "pathologisch": [
+        "Krankheitslehre",
+        "krankhaft"
+    ],
+    "Induration": [
+        "Gewebeverhärtung"
+    ],
+    "Fibrose": [
+        "Gewebeverhärtung"
+    ],
+    "Genese": [
+        "Entstehung"
+    ],
+    "Involution": [
+        "s. zurückbildend",
+        "Rückentwicklung",
+        "Rückbildung"
+    ],
+    "Regression": [
+        "s. zurückbildend",
+        "Rückentwicklung",
+        "Rückbildung"
+    ],
+    "regressiv": [
+        "s. zurückentwickelnd"
+    ],
+    "Evolution": [
+        "Fortschreiten",
+        "Entwicklung",
+        "fortschreitend"
+    ],
+    "Progression": [
+        "Fortschreiten",
+        "Entwicklung",
+        "fortschreitend"
+    ],
+    "Atrophie": [
+        "Gewebeschwund"
+    ],
+    "atrophieren": [
+        "schwindend",
+        "geschrumpft",
+        "schrumpfen"
+    ],
+    "atrophiert": [
+        "schwindend",
+        "geschrumpft",
+        "schrumpfen"
+    ],
+    "Hypertrophie": [
+        "Gewebevergrößerung",
+        "vergrößert"
+    ],
+    "hypertroph": [
+        "Gewebevergrößerung",
+        "vergrößert"
+    ],
+    "Aplasie": [
+        "Nichtausbildung"
+    ],
+    "Dysplasie": [
+        "Fehlbildung"
+    ],
+    "Neoplasie": [
+        "Neubildung"
+    ],
+    "Dystrophie": [
+        "Fehlwuchs"
+    ],
+    "Metastase(n)": [
+        "Tumorabsiedelung",
+        "Tochtergeschwulst(ülste)"
+    ],
+    "Filiae (Pl.)": [
+        "Tumorabsiedelung",
+        "Tochtergeschwulst(ülste)"
+    ],
+    "Chirotherapie": [
+        "manuelle Medizin",
+        "manuelle Therapie"
+    ],
+    "Radiotherapie": [
+        "Strahlenlehre",
+        "Strahlentherapie"
+    ],
+    "Radiologie": [
+        "Strahlenlehre",
+        "Strahlentherapie"
+    ],
+    "Onkologie": [
+        "Lehre von den Geschwulsterkrankungen"
+    ],
+    "Onkologe": [
+        "Krebsspezialist",
+        "Facharzt für Geschwulsterkrankungen"
+    ],
+    "Restitutio": [
+        "Wiederherstellung"
+    ],
+    "Richtung": [
+        "& Bewegung"
+    ],
+    "anterior": [
+        "vorne",
+        "vorne gelegen",
+        "vorder"
+    ],
+    "anterius": [
+        "vorne",
+        "vorne gelegen",
+        "vorder"
+    ],
+    "posterior": [
+        "hinten gelegen",
+        "hinter"
+    ],
+    "posterius": [
+        "hinten gelegen",
+        "hinter"
+    ],
+    "superior": [
+        "ober",
+        "oben gelegen"
+    ],
+    "median": [
+        "in der Mitte"
+    ],
+    "medial": [
+        "in Richtung Körpermitte",
+        "zur Mitte hin gelegen"
+    ],
+    "lateral": [
+        "seitlich gelegen"
+    ],
+    "dorsal": [
+        "in Richtung Rücken",
+        "rückenseitig"
+    ],
+    "proximal": [
+        "körpernah",
+        "in Richtung Rumpf"
+    ],
+    "distal": [
+        "körperfern",
+        "in Richtung Extremitätenende"
+    ],
+    "kranial": [
+        "in Richtung Kopf",
+        "Zum Kopf hin",
+        "schädelwärts"
+    ],
+    "kaudal": [
+        "schwanzwärts",
+        "in Richtung Becken",
+        "steißwärts"
+    ],
+    "superficialis": [
+        "oberflächlich gelegen",
+        "zur Oberfläche"
+    ],
+    "superfiziell": [
+        "oberflächlich gelegen",
+        "zur Oberfläche"
+    ],
+    "profundus": [
+        "tief gelegen"
+    ],
+    "basilar": [
+        "grundlegend"
+    ],
+    "rectus": [
+        "gerade"
+    ],
+    "unilateral": [
+        "halbseitig",
+        "beidseitig",
+        "einseitig"
+    ],
+    "semilateral": [
+        "halbseitig",
+        "beidseitig",
+        "einseitig"
+    ],
+    "ipsilateral": [
+        "auf der gleichen Seite",
+        "auf der Gegenseite"
+    ],
+    "homolateral": [
+        "auf der gleichen Seite",
+        "auf der Gegenseite"
+    ],
+    "konträr": [
+        "entgegengesetzt"
+    ],
+    "intern": [
+        "innerlich",
+        "von innen"
+    ],
+    "extern": [
+        "äußerlich",
+        "von außen"
+    ],
+    "dexter": [
+        "links",
+        "rechts"
+    ],
+    "dextra": [
+        "links",
+        "rechts"
+    ],
+    "Abduktion": [
+        "Abspreizung",
+        "Abspreizen einer Extremität nach außen",
+        "Wegführung"
+    ],
+    "Adduktion": [
+        "Heranführung einer Extremität zur Körpermitte"
+    ],
+    "Extension": [
+        "Streckung"
+    ],
+    "Extensor": [
+        "ausstrecken",
+        "Streckmuskel",
+        "Strecker"
+    ],
+    "extendere": [
+        "ausstrecken",
+        "Streckmuskel",
+        "Strecker"
+    ],
+    "Flexion": [
+        "Beugung",
+        "Biegung"
+    ],
+    "Flexor": [
+        "Beugemuskel",
+        "Bieger"
+    ],
+    "Rotation": [
+        "Drehung"
+    ],
+    "Rotation externus": [
+        "Auswärtsdrehung"
+    ],
+    "Rotation internus": [
+        "Einwärtsdrehung"
+    ],
+    "Rotation mediales": [
+        "Drehbewegung zur Mitte"
+    ],
+    "Rotation laterales": [
+        "Drehbewegung nach außen"
+    ],
+    "Supination": [
+        "Auswärtsdrehung"
+    ],
+    "Pronation": [
+        "Einwärtsdrehung"
+    ],
+    "Elevation": [
+        "Anhebung",
+        "anheben"
+    ],
+    "elevare": [
+        "Anhebung",
+        "anheben"
+    ],
+    "Inklination": [
+        "Vorbeugung der Wirbelsäule",
+        "vorbeugen"
+    ],
+    "inklinieren": [
+        "Vorbeugung der Wirbelsäule",
+        "vorbeugen"
+    ],
+    "Reklination": [
+        "zurückbeugen",
+        "Rückbeugung",
+        "Streckung der Wirbelsäule"
+    ],
+    "reklinieren": [
+        "zurückbeugen",
+        "Rückbeugung",
+        "Streckung der Wirbelsäule"
+    ],
+    "afferens": [
+        "heranführend",
+        "hinführend",
+        "zuführend"
+    ],
+    "afferent": [
+        "heranführend",
+        "hinführend",
+        "zuführend"
+    ],
+    "efferens": [
+        "herausführend",
+        "wegführend"
+    ],
+    "efferent": [
+        "herausführend",
+        "wegführend"
+    ],
+    "importieren": [
+        "ausführen",
+        "hinführen"
+    ],
+    "exportieren": [
+        "ausführen",
+        "hinführen"
+    ],
+    "ascendens": [
+        "absteigend",
+        "aufsteigend"
+    ],
+    "descendens": [
+        "absteigend",
+        "aufsteigend"
+    ],
+    "Infektion": [
+        "ansteckend",
+        "angesteckt",
+        "Ansteckung"
+    ],
+    "infektiös": [
+        "ansteckend",
+        "angesteckt",
+        "Ansteckung"
+    ],
+    "infiziert": [
+        "ansteckend",
+        "angesteckt",
+        "Ansteckung"
+    ],
+    "Kontagiosität": [
+        "Übertragungsfähigkeit",
+        "Ansteckungskraft"
+    ],
+    "Ätiologie": [
+        "Krankheitsursachen",
+        "Ursache",
+        "ursächlich"
+    ],
+    "kausal": [
+        "Krankheitsursachen",
+        "Ursache",
+        "ursächlich"
+    ],
+    "ätiologisch": [
+        "Krankheitsursachen",
+        "Ursache",
+        "ursächlich"
+    ],
+    "idiopatisch": [
+        "ohne erkennbare Ursache"
+    ],
+    "Kontamination": [
+        "Verunreinigung",
+        "Verschmutzung"
+    ],
+    "Mikroorganismus(Mikroorganismen)": [
+        "Erreger"
+    ],
+    "Intoxikation": [
+        "Vergiftung"
+    ],
+    "zytotoxisch": [
+        "zellschädigend"
+    ],
+    "Apathie": [
+        "teilnahmslos",
+        "Teilnahmslosigkeit"
+    ],
+    "apathisch": [
+        "teilnahmslos",
+        "Teilnahmslosigkeit"
+    ],
+    "Fatigue": [
+        "Ermattung",
+        "Erschöpfung",
+        "chronische Müdigkeit",
+        "Ermüdung"
+    ],
+    "Malaise": [
+        "Ermattung",
+        "Erschöpfung",
+        "chronische Müdigkeit",
+        "Ermüdung"
+    ],
+    "Abgeschlagenheit": [
+        "Schlappheit"
+    ],
+    "Adynamie": [
+        "Kraftlosigkeit",
+        "antriebslos",
+        "Antriebslosigkeit"
+    ],
+    "adynamisch": [
+        "Kraftlosigkeit",
+        "antriebslos",
+        "Antriebslosigkeit"
+    ],
+    "Pyrexie": [
+        "Fieber"
+    ],
+    "Febris": [
+        "Fieber"
+    ],
+    "afebril": [
+        "ohne Fieber",
+        "fieberhaft",
+        "fieberfrei"
+    ],
+    "febril": [
+        "ohne Fieber",
+        "fieberhaft",
+        "fieberfrei"
+    ],
+    "paroxysmal": [
+        "anfallsartig",
+        "plötzlich",
+        "anfallsweise",
+        "in Anfällen"
+    ],
+    "Rubella": [
+        "Röteln"
+    ],
+    "Rubeola": [
+        "Röteln"
+    ],
+    "Masern": [
+        "Morbilli"
+    ],
+    "Varizellen": [
+        "Windpocken",
+        "Pocken",
+        "Wasserpocken"
+    ],
+    "Variola": [
+        "Windpocken",
+        "Pocken",
+        "Wasserpocken"
+    ],
+    "Bläschenausschlag": [
+        "Gürtelrose"
+    ],
+    "Scarlatina": [
+        "Scharlach"
+    ],
+    "infektiöse Mononukleose": [
+        "pfeiffersches Drüsenfieber"
+    ],
+    "Gonorrhoe": [
+        "Tripper"
+    ],
+    "Syphilis": [
+        "Lues",
+        "Maselsucht",
+        "harter Schanker"
+    ],
+    "Syphilus": [
+        "Lues",
+        "Maselsucht",
+        "harter Schanker"
+    ],
+    "Ulcus molle": [
+        "weicher Schanker"
+    ],
+    "Rabies": [
+        "Tollwut",
+        "Wutkrankheit"
+    ],
+    "Lyssa": [
+        "Tollwut",
+        "Wutkrankheit"
+    ],
+    "Tetanus": [
+        "Wundstarrkrampf"
+    ],
+    "Poliomyelitis": [
+        "Kinderlähmung"
+    ],
+    "Pertussis": [
+        "Keuchhusten"
+    ],
+    "Diphterie": [
+        "Halsbräune"
+    ],
+    "Lepra": [
+        "Aussatz",
+        "Miselsucht"
+    ],
+    "Morbus Hansen": [
+        "Aussatz",
+        "Miselsucht"
+    ],
+    "Skabies": [
+        "Krätze"
+    ],
+    "Pest": [
+        "schwarzer Tod"
+    ],
+    "Tularämie": [
+        "Hasenpest",
+        "Nagetierseuche"
+    ],
+    "Anthrax": [
+        "Milzbrand"
+    ],
+    "Brucellose": [
+        "Maltafieber"
+    ],
+    "Brucella": [
+        "Maltafieber"
+    ],
+    "Mykose": [
+        "Pilzinfektion"
+    ],
+    "Malaria": [
+        "Wechselfieber"
+    ],
+    "Neonatologin": [
+        "Kinderheilkunde",
+        "Fachärztin für Neugeborene",
+        "Kinderarzt"
+    ],
+    "Pädiater": [
+        "Kinderheilkunde",
+        "Fachärztin für Neugeborene",
+        "Kinderarzt"
+    ],
+    "Pädiatrie": [
+        "Kinderheilkunde",
+        "Fachärztin für Neugeborene",
+        "Kinderarzt"
+    ],
+    "Fibrinum": [
+        "Fibrin"
+    ],
+    "Therapie": [
+        "medizinische Behandlung"
+    ],
+    "Prophylaxe": [
+        "Vorbeugung",
+        "vorbeugend",
+        "Verhütung"
+    ],
+    "Prävention": [
+        "Vorbeugung",
+        "vorbeugend",
+        "Verhütung"
+    ],
+    "prophylaktisch": [
+        "Vorbeugung",
+        "vorbeugend",
+        "Verhütung"
+    ],
+    "Inhibition": [
+        "hindern",
+        "Hemmung",
+        "Blocker",
+        "hemmen",
+        "Hemmer",
+        "Hemmstoff"
+    ],
+    "Inhibitor": [
+        "hindern",
+        "Hemmung",
+        "Blocker",
+        "hemmen",
+        "Hemmer",
+        "Hemmstoff"
+    ],
+    "inhibieren": [
+        "hindern",
+        "Hemmung",
+        "Blocker",
+        "hemmen",
+        "Hemmer",
+        "Hemmstoff"
+    ],
+    "Zytostatika": [
+        "Zellwachstum hemmende Mittel",
+        "Krebsmittel"
+    ],
+    "Vakzination": [
+        "Impfstoff(e)",
+        "Impfung"
+    ],
+    "Vakzin(e)": [
+        "Impfstoff(e)",
+        "Impfung"
+    ],
+    "Antidot": [
+        "Gegengift",
+        "Gegenmittel"
+    ],
+    "Plazebo": [
+        "Scheinarzneimittel",
+        "Scheinmedikament"
+    ],
+    "synthetisch": [
+        "künstlich"
+    ],
+    "artifiziell": [
+        "künstlich"
+    ],
+    "kurabel": [
+        "unheilbar",
+        "heilbar"
+    ],
+    "inkurabel": [
+        "unheilbar",
+        "heilbar"
+    ],
+    "kurativ": [
+        "symptomatische Therapie",
+        "heilend",
+        "lindernd",
+        "nicht heilend"
+    ],
+    "palliativ": [
+        "symptomatische Therapie",
+        "heilend",
+        "lindernd",
+        "nicht heilend"
+    ],
+    "reversibel": [
+        "nicht umkehrbar",
+        "umkehrbar"
+    ],
+    "irreversibel": [
+        "nicht umkehrbar",
+        "umkehrbar"
+    ],
+    "kompatibel": [
+        "zusammen passend",
+        "kombinierbar",
+        "verträglich",
+        "vereinbar"
+    ],
+    "compati": [
+        "zusammen passend",
+        "kombinierbar",
+        "verträglich",
+        "vereinbar"
+    ],
+    "unvereinbar": [
+        "nicht kombinierbar",
+        "nicht zusammen passend",
+        "unverträglich"
+    ],
+    "fungizid": [
+        "pilztötend",
+        "Pilze abtötend",
+        "pilztötendes Mittel",
+        "Pilze"
+    ],
+    "Fungizid(e)": [
+        "pilztötend",
+        "Pilze abtötend",
+        "pilztötendes Mittel",
+        "Pilze"
+    ],
+    "Fungi(Pl.)": [
+        "pilztötend",
+        "Pilze abtötend",
+        "pilztötendes Mittel",
+        "Pilze"
+    ],
+    "Indikation": [
+        "Heilanzeige"
+    ],
+    "Kontraindikation": [
+        "Gegenanzeige"
+    ],
+    "Reaktion": [
+        "Gegenwirkung",
+        "Wechselwirkung"
+    ],
+    "Interaktion": [
+        "Gegenwirkung",
+        "Wechselwirkung"
+    ],
+    "Lokalanästhesie": [
+        "örtliche Betäubung"
+    ],
+    "Narkose": [
+        "allgemeine Betäubung"
+    ],
+    "Anästhetikum": [
+        "Betäubungsmittel",
+        "Narkosemittel"
+    ],
+    "Hypnotikum": [
+        "Schlafmittel"
+    ],
+    "Relaxans(Relaxanzien)": [
+        "Muskelerschlaffungsmittel",
+        "Entspannungsmittel"
+    ],
+    "Hämostatikum": [
+        "blutstillendes Mittel"
+    ],
+    "Hämostyptikum": [
+        "blutstillendes Mittel"
+    ],
+    "Antikoagulation": [
+        "Gerinnungshemmung",
+        "Blutverdünnung"
+    ],
+    "Antikoagulans": [
+        "Blutverdünner",
+        "gerinnungshemmendes Mittel"
+    ],
+    "Antithrombotikum": [
+        "Blutverdünner",
+        "gerinnungshemmendes Mittel"
+    ],
+    "Heparin": [
+        "Blutverdünner",
+        "gerinnungshemmendes Mittel"
+    ],
+    "Transfusion": [
+        "Blutübertragung",
+        "Spender"
+    ],
+    "Donor": [
+        "Blutübertragung",
+        "Spender"
+    ],
+    "Analgetikum(Analgetika)": [
+        "Schmerzbekämpfung",
+        "Schmerzmittel"
+    ],
+    "Analgesie": [
+        "Schmerzbekämpfung",
+        "Schmerzmittel"
+    ],
+    "Antiphlogistikum": [
+        "Entzündungshemmer",
+        "entzündungshemmendes Mittel"
+    ],
+    "Antipyretikum(Antipyretika)": [
+        "Fiebermittel"
+    ],
+    "Antibiotikum(Antibiotika)": [
+        "Mittel gegen Krankheitserreger"
+    ],
+    "Antiseptikum": [
+        "keimtötendes Mittel"
+    ],
+    "Antimykotikum": [
+        "Antipilzmittel"
+    ],
+    "Antiemetikum(Antiemetika)": [
+        "Mittel gegen Übelkeit und Erbrechen"
+    ],
+    "Emetikum(Emetika)": [
+        "Brechmittel"
+    ],
+    "Antazidum(Antazida)": [
+        "Magensäuremittel"
+    ],
+    "Protonenpumpeninhibitor": [
+        "Magensäureblocker",
+        "Magenschutz"
+    ],
+    "blocker (PPI)": [
+        "Magensäureblocker",
+        "Magenschutz"
+    ],
+    "Laxativum": [
+        "Abführmittel"
+    ],
+    "Laxans(Laxantien)": [
+        "Abführmittel"
+    ],
+    "Antidiarrhoika": [
+        "Medikamente gegen Durchfall"
+    ],
+    "Spasmolytikum": [
+        "Krampflöser",
+        "krampflösendes Mittel"
+    ],
+    "Antihypertonikum(Antihypertonika)": [
+        "Mittel gegen Bluthochdruck",
+        "Blutdrucksenkmittel",
+        "Blutdruckmittel"
+    ],
+    "ACE": [
+        "Mittel gegen Bluthochdruck",
+        "Blutdrucksenkmittel",
+        "Blutdruckmittel"
+    ],
+    "Antihypotonika": [
+        "Kreislaufmittel"
+    ],
+    "Vasodilatator": [
+        "Erweiterung",
+        "Gefäßerweiterungsmittel"
+    ],
+    "Dilatation": [
+        "Erweiterung",
+        "Gefäßerweiterungsmittel"
+    ],
+    "Vasokonstriktor": [
+        "Gefäßverengungsmittel"
+    ],
+    "Diuretikum(Diuretika)": [
+        "Wassertablette",
+        "Entwässerungsmittel"
+    ],
+    "Antiarrhythmikum": [
+        "Mittel gegen Herzrhythmusstörungen"
+    ],
+    "Kardiaka": [
+        "Herztabletten"
+    ],
+    "Antidepressivum(Antidepressiva)": [
+        "stimmungshebendes Mittel"
+    ],
+    "Anxiolytikum": [
+        "angstlösendes Mittel"
+    ],
+    "Antikonvulsivum": [
+        "Mittel gegen Krampfanfälle"
+    ],
+    "Antitussivum(Antitussiva)": [
+        "Hustensaft",
+        "Hustenstiller",
+        "Hustenmittel"
+    ],
+    "Expektorans": [
+        "Hustenlöser",
+        "Mittel zur Förderung des Auswurfs"
+    ],
+    "Mukolytikum": [
+        "schleimlösendes Mittel",
+        "Schleimlöser"
+    ],
+    "Konzeption": [
+        "Empfängnis",
+        "Empfängnisverhütung",
+        "Befruchtung"
+    ],
+    "Antikonzeption": [
+        "Empfängnis",
+        "Empfängnisverhütung",
+        "Befruchtung"
+    ],
+    "Kontrazeption": [
+        "Empfängnis",
+        "Empfängnisverhütung",
+        "Befruchtung"
+    ],
+    "Kontrazeptivum": [
+        "Verhütungsmittel",
+        "Anti Baby Pille"
+    ],
+    "Antikonzeptivum": [
+        "Verhütungsmittel",
+        "Anti Baby Pille"
+    ],
+    "Tokolyse": [
+        "Wehenhemmung",
+        "Wehenhemmer"
+    ],
+    "Tokolytikum": [
+        "Wehenhemmung",
+        "Wehenhemmer"
+    ],
+    "Ovulationshemmer": [
+        "Eisprunghemmer"
+    ],
+    "Lthyroxin": [
+        "Medikament für Schilddrüsenunterfunktion"
+    ],
+    "Insulin": [
+        "Medikament für Zuckerkrankheit"
+    ],
+    "Kortikoide": [
+        "die den Hormonen der Nebennierenrinde",
+        "Medikamente"
+    ],
+    "Kortikosteroide": [
+        "die den Hormonen der Nebennierenrinde",
+        "Medikamente"
+    ],
+    "Lipidsenker": [
+        "Fettsenker"
+    ],
+    "Suppositorium": [
+        "Zäpfchen"
+    ],
+    "Dermatika": [
+        "Salben"
+    ],
+    "Phytotherapie": [
+        "Pflanzenheilkunde"
+    ],
+    "Rekonvaleszenz": [
+        "Genesung",
+        "Gesundung",
+        "Erholung",
+        "Besserung"
+    ],
+    "Reanimation": [
+        "Wiederbelebung",
+        "wiederbeleben"
+    ],
+    "reanimieren": [
+        "Wiederbelebung",
+        "wiederbeleben"
+    ],
+    "Remission": [
+        "vorübergehende Verbesserung der Krankheitssymptome"
+    ],
+    "Abklingen": [
+        "Nachlassen",
+        "Rückgang"
+    ],
+    "Emission": [
+        "Ausstoß"
+    ],
+    "Radiatio": [
+        "Bestrahlung"
+    ],
+    "Permeabilität": [
+        "Durchlässigkeit",
+        "durchlässig"
+    ],
+    "permeabel": [
+        "Durchlässigkeit",
+        "durchlässig"
+    ],
+    "Atrepsie": [
+        "Gedeihstörung"
+    ],
+    "Marasmus": [
+        "Gedeihstörung"
+    ],
+    "Immobilisation": [
+        "unbeweglich",
+        "Unbeweglichkeit",
+        "beweglich",
+        "Ruhigstellung"
+    ],
+    "immobil": [
+        "unbeweglich",
+        "Unbeweglichkeit",
+        "beweglich",
+        "Ruhigstellung"
+    ],
+    "mobil": [
+        "unbeweglich",
+        "Unbeweglichkeit",
+        "beweglich",
+        "Ruhigstellung"
+    ],
+    "Disaccharid": [
+        "Zweifachzucker"
+    ],
+    "Laktose": [
+        "Milchzucker"
+    ],
+    "Monosaccharid": [
+        "Einfachzucker"
+    ],
+    "Fruktose": [
+        "Fruchtzucker"
+    ],
+    "Glukose": [
+        "Stärkezucker",
+        "Traubenzucker"
+    ],
+    "Dextrose": [
+        "Stärkezucker",
+        "Traubenzucker"
+    ],
+    "Ferrum": [
+        "Eisen"
+    ],
+    "Sideropenie": [
+        "Eisenmangel"
+    ],
+    "bougieren": [
+        "aufdehnen"
+    ],
+    "Adoleszenz": [
+        "Jugendalter"
+    ],
+    "Geron": [
+        "Greis",
+        "greisenhaft",
+        "Alte",
+        "Greisenalter"
+    ],
+    "Senium": [
+        "Greis",
+        "greisenhaft",
+        "Alte",
+        "Greisenalter"
+    ],
+    "senil": [
+        "Greis",
+        "greisenhaft",
+        "Alte",
+        "Greisenalter"
+    ],
+    "Geriatrie": [
+        "Altmediziner",
+        "Altersheilkunde"
+    ],
+    "Geriater": [
+        "Altmediziner",
+        "Altersheilkunde"
+    ],
+    "Mors": [
+        "Tod"
+    ],
+    "Exitus": [
+        "Tod"
+    ],
+    "letal": [
+        "tödlich"
+    ],
+    "moribund": [
+        "sterbend"
+    ],
+    "Suizid": [
+        "Selbstmord"
+    ],
+    "Rigor mortis": [
+        "Todenstarre",
+        "Leichenstarre"
+    ],
+    "Obduktion": [
+        "Leichenschau"
+    ],
+    "Autopsie": [
+        "Leichenschau"
+    ],
+    "Sektion": [
+        "Leichenschau"
+    ],
+    "Psyche": [
+        "Seele",
+        "Seelenheilkunde"
+    ],
+    "Psychiatrie": [
+        "Seele",
+        "Seelenheilkunde"
+    ],
+    "Depression": [
+        "krankhafte Niedergeschlagenheit"
+    ],
+    "depressiv": [
+        "niedergeschlagen"
+    ],
+    "deprimiert": [
+        "niedergeschlagen"
+    ],
+    "Melancholie": [
+        "Traurigkeit",
+        "Schwermut Trübsinn"
+    ],
+    "Phobie": [
+        "krankhafte Angst",
+        "Furcht"
+    ],
+    "Photophobie": [
+        "Lichtscheu",
+        "Lichtüberempfindlichkeit"
+    ],
+    "Phonophobie": [
+        "Lärmüberempfindlichkeit"
+    ],
+    "Klaustrophobie": [
+        "Platzangst",
+        "Raumangst"
+    ],
+    "Abusus": [
+        "Missbrauch"
+    ],
+    "Karenz": [
+        "Verzicht",
+        "Enthaltsamkeit"
+    ],
+    "Noxe(n)": [
+        "Schadstoff(e)"
+    ],
+    "lokalisiert": [
+        "örtlich begrenzt"
+    ],
+    "Inflammatio": [
+        "Entzündung"
+    ],
+    "Calor": [
+        "Kühlung",
+        "Wärme",
+        "Blässe",
+        "Schmerz",
+        "Rötung",
+        "Überwärmung"
+    ],
+    "Rubor": [
+        "Kühlung",
+        "Wärme",
+        "Blässe",
+        "Schmerz",
+        "Rötung",
+        "Überwärmung"
+    ],
+    "Dolor": [
+        "Kühlung",
+        "Wärme",
+        "Blässe",
+        "Schmerz",
+        "Rötung",
+        "Überwärmung"
+    ],
+    "Pallor": [
+        "Kühlung",
+        "Wärme",
+        "Blässe",
+        "Schmerz",
+        "Rötung",
+        "Überwärmung"
+    ],
+    "Algor": [
+        "Kühlung",
+        "Wärme",
+        "Blässe",
+        "Schmerz",
+        "Rötung",
+        "Überwärmung"
+    ],
+    "dolent": [
+        "Schmerzhaftigkeit",
+        "schmerzhaft"
+    ],
+    "dolorosus": [
+        "Schmerzhaftigkeit",
+        "schmerzhaft"
+    ],
+    "Dolenz": [
+        "Schmerzhaftigkeit",
+        "schmerzhaft"
+    ],
+    "indolent": [
+        "schmerzlos"
+    ],
+    "undulierend": [
+        "wellenförmig"
+    ],
+    "ondulierend": [
+        "wellenförmig"
+    ],
+    "Kausalgie": [
+        "brennender Schmerz"
+    ],
+    "Morbus": [
+        "Erkrankung",
+        "Krankheit"
+    ],
+    "Nosos": [
+        "Erkrankung",
+        "Krankheit"
+    ],
+    "Pathos": [
+        "Erkrankung",
+        "Krankheit"
+    ],
+    "kongenital": [
+        "angeboren"
+    ],
+    "Tonus": [
+        "Spannung"
+    ],
+    "verus": [
+        "wahr",
+        "echt"
+    ],
+    "Hygiene": [
+        "Gesundheitslehre"
+    ],
+    "Hypothermie": [
+        "Unterkühlung"
+    ],
+    "accidens akzidentiell": [
+        "zufällig"
+    ],
+    "Circulus": [
+        "Ring"
+    ],
+    "persistierend": [
+        "andauernd",
+        "anhaltend",
+        "dauerhaft",
+        "fortbestehend",
+        "bleibend"
+    ],
+    "persistent": [
+        "andauernd",
+        "anhaltend",
+        "dauerhaft",
+        "fortbestehend",
+        "bleibend"
+    ],
+    "permanent": [
+        "andauernd",
+        "anhaltend",
+        "dauerhaft",
+        "fortbestehend",
+        "bleibend"
+    ],
+    "fugax": [
+        "vorübergehend"
+    ],
+    "transient": [
+        "vorübergehend"
+    ],
+    "transitorisch": [
+        "vorübergehend"
+    ],
+    "temporär": [
+        "vorübergehend"
+    ],
+    "Anamnese": [
+        "Krankenvorgeschichte",
+        "Aufnahmegespräch"
+    ],
+    "Inspektion": [
+        "Betrachten"
+    ],
+    "Palpation": [
+        "Abtasten"
+    ],
+    "Auskultation": [
+        "Abhorchen",
+        "abhorchen",
+        "Abhören",
+        "abhören"
+    ],
+    "auskultieren": [
+        "Abhorchen",
+        "abhorchen",
+        "Abhören",
+        "abhören"
+    ],
+    "Perkussion": [
+        "Abklopfen"
+    ],
+    "Befund": [
+        "Untersuchungsergebnis"
+    ],
+    "postprandial": [
+        "nach der Nahrungsaufnahme"
+    ],
+    "alimentär": [
+        "ernährungsbedingt"
+    ],
+    "Natriumchlorid": [
+        "Kochsalz"
+    ],
+    "vanus": [
+        "vergeblich ohne Ergebnis"
+    ],
+    "frustran": [
+        "vergeblich ohne Ergebnis"
+    ],
+    "infaust": [
+        "hoffnungslos aussichtslos"
+    ],
+    "Diameter": [
+        "Durchmesser"
+    ],
+    "completus": [
+        "vollständig"
+    ],
+    "partial": [
+        "teilweise"
+    ],
+    "partiell": [
+        "teilweise"
+    ],
+    "terminal": [
+        "im Endstadium",
+        "anfangs"
+    ],
+    "final": [
+        "im Endstadium",
+        "anfangs"
+    ],
+    "initial": [
+        "im Endstadium",
+        "anfangs"
+    ],
+    "iatrogen": [
+        "durch den Arzt verursacht"
+    ],
+    "auxilliär": [
+        "unterstützend",
+        "helfend"
+    ],
+    "adjuvant": [
+        "unterstützend",
+        "helfend"
+    ],
+    "fortis": [
+        "stark"
+    ],
+    "prominent": [
+        "aus etwas hervorragend"
+    ],
+    "substituieren": [
+        "Ersatz",
+        "ersetzen"
+    ],
+    "Substitution": [
+        "Ersatz",
+        "ersetzen"
+    ],
+    "invasiv": [
+        "eingreifend",
+        "in den Körper eindringend"
+    ],
+    "konstant": [
+        "beständig",
+        "stetig",
+        "gleichbleibend"
+    ],
+    "alternierend": [
+        "abwechselnd"
+    ],
+    "Genetik": [
+        "Vererbungslehre",
+        "erblich",
+        "Erbanlage"
+    ],
+    "Gen": [
+        "Vererbungslehre",
+        "erblich",
+        "Erbanlage"
+    ],
+    "hereditär": [
+        "Vererbungslehre",
+        "erblich",
+        "Erbanlage"
+    ],
+    "genetisch": [
+        "Vererbungslehre",
+        "erblich",
+        "Erbanlage"
+    ],
+    "Dysfunktion": [
+        "Funktionsstörung"
+    ],
+    "Dissemination": [
+        "Ausbreitung"
+    ],
+    "Irritation": [
+        "Reiz",
+        "Reizung",
+        "reizlos",
+        "gereizt"
+    ],
+    "irritiert": [
+        "Reiz",
+        "Reizung",
+        "reizlos",
+        "gereizt"
+    ],
+    "blande": [
+        "Reiz",
+        "Reizung",
+        "reizlos",
+        "gereizt"
+    ],
+    "Stimulus": [
+        "Reiz",
+        "Reizung",
+        "reizlos",
+        "gereizt"
+    ],
+    "Exzitation": [
+        "Erregung"
+    ],
+    "Agitiertheit": [
+        "erregt",
+        "Erregungszustand"
+    ],
+    "Agitation": [
+        "erregt",
+        "Erregungszustand"
+    ],
+    "agitiert": [
+        "erregt",
+        "Erregungszustand"
+    ],
+    "Dilution": [
+        "verdünnen",
+        "Verdünnung"
+    ],
+    "diluere": [
+        "verdünnen",
+        "Verdünnung"
+    ],
+    "Kolik": [
+        "krampfartige Schmerzen"
+    ],
+    "Inzidenz": [
+        "Neuerkrankungsrate",
+        "Krankheitshäufigkeit"
+    ],
+    "Prävalenz": [
+        "Neuerkrankungsrate",
+        "Krankheitshäufigkeit"
+    ],
+    "Obstruktion": [
+        "Verschluss"
+    ],
+    "liquid": [
+        "flüssig",
+        "Flüssigkeit"
+    ],
+    "Humor": [
+        "flüssig",
+        "Flüssigkeit"
+    ],
+    "konfluieren": [
+        "zusammenfließen",
+        "zusammenfließend"
+    ],
+    "konfluierend": [
+        "zusammenfließen",
+        "zusammenfließend"
+    ],
+    "Akkumulation": [
+        "anhäufen",
+        "ansammeln",
+        "Anhäufung"
+    ],
+    "accumulare": [
+        "anhäufen",
+        "ansammeln",
+        "Anhäufung"
+    ],
+    "Prognose": [
+        "Heilungsaussicht",
+        "Vorhersage",
+        "Feststellung einer Krankheit"
+    ],
+    "Diagnose": [
+        "Heilungsaussicht",
+        "Vorhersage",
+        "Feststellung einer Krankheit"
+    ],
+    "akut": [
+        "schnell verlaufend",
+        "plötzlich auftretend"
+    ],
+    "chronisch": [
+        "langsam s. entwickelnd",
+        "lang andauernd",
+        "anhaltend"
+    ],
+    "latent": [
+        "verborgen",
+        "symptomlos verlaufend"
+    ],
+    "intermittierend": [
+        "mit Unterbrechungen auftretend"
+    ],
+    "Rezidiv": [
+        "wiederauftretend",
+        "Rückfall",
+        "wiederkehrend",
+        "Wiederauftreten einer Krankheit"
+    ],
+    "Relaps": [
+        "wiederauftretend",
+        "Rückfall",
+        "wiederkehrend",
+        "Wiederauftreten einer Krankheit"
+    ],
+    "rezidivierend": [
+        "wiederauftretend",
+        "Rückfall",
+        "wiederkehrend",
+        "Wiederauftreten einer Krankheit"
+    ],
+    "Exazerbation": [
+        "Verschlimmerung einer Krankheit"
+    ],
+    "occultus okkult": [
+        "verborgen",
+        "nicht sichtbar"
+    ],
+    "Fecal Occult Blood Test (FOBT)": [
+        "Test auf verborgenes Blut im Stuhl"
+    ],
+    "Artefakt": [
+        "künstliche Messstörung"
+    ],
+    "Azidose": [
+        "Basenüberschuss",
+        "Übersäuerung"
+    ],
+    "Alkalose": [
+        "Basenüberschuss",
+        "Übersäuerung"
+    ],
+    "itis Entzündung Gastritis": [
+        "Dys Störung Dysphagie"
+    ],
+    "pathie Krankheit Nephropathie": [
+        "Kolonkarzinom",
+        "Karzinom Krebs Basaliom",
+        "Om"
+    ],
+    "skopie Spiegelung Ösohagoskopie": [
+        "lithiasis Steinleiden Choletithiasis"
+    ],
+    "ektomie Entfernung laryngektomie ämie": [
+        "Stoffe im Blut Hperglykämie"
+    ],
+    "insuffizenz Schwäche Herzinsuffizenz": [
+        "Hyper vermehrt Überfunktion Hyperthyreos e"
+    ],
+    "ose": [
+        "degenrativ chronische Zustände Arthrose Intra x extra innerhalb x außerhalb Intrakranial"
+    ],
+    "opexie Befestigung": [
+        "supra x infra x super oberhalb x unterhalb x über"
+    ],
+    "pnie Mangel Leucopnie": [
+        "Articulatio Gelenk Articulatio cubiti"
+    ],
+    "algie": [
+        "Stauung Cholestase"
+    ],
+    "dynie Schmerz Arthalgie": [
+        "Stauung Cholestase"
+    ],
+    "Otodynie tase": [
+        "Stauung Cholestase"
+    ],
+    "koilk krampfartige Schmerzen Nierenkolik opie": [
+        "Auge betreffed Emetropie"
+    ],
+    "spasmus Muskelkrampf Pylorospasmus ual": [
+        "Zunge betreffed lingual"
+    ],
+    "megalie Vergrößerung Akromegalie urie": [
+        "Harn betreffed Pyurie"
+    ],
+    "parese Lähmung Gastroparese": [
+        "stenose Verengung Ureterstenose"
+    ],
+    "ästhesie Empfindung Hyperästhesie Makro": [
+        "Vergroßung Makroglossie"
+    ],
+    "loge Arzt für ...": [
+        "Kleinheit Miktostomie"
+    ],
+    "... arzt Onkologe Mikro": [
+        "Kleinheit Miktostomie"
+    ],
+    "ologie ....heilkunde": [
+        "ungewollter Abgang von Harninkonti nenz"
+    ],
+    "Lehre von": [
+        "ungewollter Abgang von Harninkonti nenz"
+    ],
+    "Fachgebiet für inkontinenz": [
+        "ungewollter Abgang von Harninkonti nenz"
+    ],
+    "ographie": [
+        "bildliche Darstellung"
+    ],
+    "FachbegriffeErklärung auf": [
+        "Youtube",
+        "Dr Ahmed Solyman"
+    ],
+    "الطبية المصطلحات": [
+        "شرح فيديوهات لمشاهدة"
+    ],
+    "اليوتيوب على سليمان أحمد": [
+        "د قناة على"
+    ]
+}
