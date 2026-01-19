@@ -11,8 +11,6 @@ st.set_page_config(page_title="FSP Terminologie Trainer", page_icon="💊", layo
 # Streamlit Cloud'a yüklediğinde Secrets'tan okur, yoksa buradakini kullanır.
 if "GROQ_API_KEY" in st.secrets:
     API_KEY = st.secrets["GROQ_API_KEY"]
-else:
-    
 # Groq İstemcisi
 try:
     client = Groq(api_key=API_KEY)
