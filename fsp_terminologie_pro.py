@@ -12,9 +12,7 @@ st.set_page_config(page_title="FSP Terminologie Trainer", page_icon="💊", layo
 if "GROQ_API_KEY" in st.secrets:
     API_KEY = st.secrets["GROQ_API_KEY"]
 else:
-    # Buraya kendi API anahtarını yapıştırabilirsin (Local test için)
-    API_KEY = "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"
-
+    
 # Groq İstemcisi
 try:
     client = Groq(api_key=API_KEY)
